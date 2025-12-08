@@ -205,54 +205,58 @@ udp://@225.1.1.162:30120
 #EXTINF:0 tvg-id="soctrang" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 - TH Sóc Trăng
 udp://@225.1.1.159:30120
 #-------------------Quốc tế-------------------#
-#EXTINF:-1 group-title="Quốc Tế" tvg-id="animalhd" tvg-logo="https://i.imgur.com/9t7FsCk.png",Animal Planet
-udp://@225.1.1.231:30120
-#EXTINF:-1 group-title="Quốc Tế" tvg-id="afnhd" tvg-logo="https://i.imgur.com/rQ3Sgrn.png",Asian Food Network
-udp://@225.1.1.198:30120
+#EXTINF:-1 group-title="Quốc Tế" tvg-id="hbohd" tvg-logo="https://i.imgur.com/6YSLw8h.png",HBO
+udp://@225.1.4.90:30120
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
+udp://@225.1.1.112:30120
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
+udp://@225.1.2.233:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/5Gtp7WP.png",AXN
 udp://@225.1.2.225:30120
-#EXTINF:-1 group-title="Quốc Tế" tvg-id="babytvhd" tvg-logo="https://i.imgur.com/s28XuHs.png",Baby TV
-udp://@225.1.2.146:30120
-#EXTINF:-1 group-title="Quốc Tế" tvg-id="cbeebies" tvg-logo="https://i.imgur.com/YFnyJFG.png",BBC CbeeBies
-udp://@225.1.1.134:30120
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/3sQunND.png",BBC Earth
-udp://@225.1.2.24:30120
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/oyadNRF.png",BOOMERANG
-udp://@225.1.1.138:30120
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/nzvNMfP.png",CARTOON NETWORK
-udp://@225.1.2.231:30120
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/KcEAjUh.png",Cinema World
-udp://@225.1.1.142:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="cinemaxhd" tvg-logo="https://i.imgur.com/PklWJDL.png",Cinemax
 udp://@225.1.2.86:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/5Sf2sSc.png",Da Vinci
 udp://@225.1.1.197:30120
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/KcEAjUh.png",Cinema World
+udp://@225.1.1.142:30120
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/odx6CRy.png",Dreamworks
+udp://@225.1.1.136:30120
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/z8Cm35k.png",Warner TV
+udp://@225.1.1.139:30120
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/oyadNRF.png",BOOMERANG
+udp://@225.1.1.138:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/blEhr2T.png",Discovery Asia
 udp://@225.1.2.223:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="discoveryhd" tvg-logo="https://i.imgur.com/fXuxFbz.png",Discovery Channel
 udp://@225.1.1.238:30120
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/odx6CRy.png",Dreamworks
-udp://@225.1.1.136:30120
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/qieUkz0.png",DW
-udp://@225.1.1.46:30120
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/iuGGPYy.png",Fashion TV
-udp://@225.1.2.227:30120
-#EXTINF:-1 group-title="Quốc Tế" tvg-id="hbohd" tvg-logo="https://i.imgur.com/6YSLw8h.png",HBO
-udp://@225.1.4.90:30120
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/CVxACz9.png",KIX
-udp://@225.1.2.144:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/cjx78kt.png",NATIONAL GEOGRAPHIC
 udp://@225.1.2.235:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/D9apec6.png",NAT GEO WILD
 udp://@225.1.1.211:30120
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/3sQunND.png",BBC Earth
+udp://@225.1.2.24:30120
+#EXTINF:-1 group-title="Quốc Tế" tvg-id="animalhd" tvg-logo="https://i.imgur.com/9t7FsCk.png",Animal Planet
+udp://@225.1.1.231:30120
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/nzvNMfP.png",CARTOON NETWORK
+udp://@225.1.2.231:30120
+#EXTINF:-1 group-title="Quốc Tế" tvg-id="babytvhd" tvg-logo="https://i.imgur.com/s28XuHs.png",Baby TV
+udp://@225.1.2.146:30120
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/CVxACz9.png",KIX
+udp://@225.1.2.144:30120
+#EXTINF:-1 group-title="Quốc Tế" tvg-id="afnhd" tvg-logo="https://i.imgur.com/rQ3Sgrn.png",Asian Food Network
+udp://@225.1.1.198:30120
+#EXTINF:-1 group-title="Quốc Tế" tvg-id="cbeebies" tvg-logo="https://i.imgur.com/YFnyJFG.png",BBC CbeeBies
+udp://@225.1.1.134:30120
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/qieUkz0.png",DW
+udp://@225.1.1.46:30120
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/iuGGPYy.png",Fashion TV
+udp://@225.1.2.227:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/OV5nhkM.png",NHK WORLD
 udp://@225.1.1.47:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Z3xc8p1.png",Outdoor Channel
 udp://@225.1.2.215:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="tlchd" tvg-logo="https://i.imgur.com/amlBPub.png",TLC
 udp://@225.1.1.236:30120
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/z8Cm35k.png",Warner TV
-udp://@225.1.1.139:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/iIrAEGx.png",Arirang
 udp://@225.1.1.201:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/0OrWtJm.png",ABC AUSTRALIA
