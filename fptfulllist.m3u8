@@ -205,10 +205,6 @@ udp://@225.1.1.162:30120
 #EXTINF:0 tvg-id="soctrang" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 - TH Sóc Trăng
 udp://@225.1.1.159:30120
 #-------------------Quốc tế-------------------#
-#EXTINF:-1 group-title="Quốc Tế" tvg-id="hbohd" tvg-logo="https://i.imgur.com/6YSLw8h.png",HBO
-udp://@225.1.4.90:30120
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
-udp://@225.1.1.112:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
 udp://@225.1.2.233:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/5Gtp7WP.png",AXN
