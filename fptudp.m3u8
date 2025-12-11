@@ -1,794 +1,925 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-#-------------------VTV-------------------#
-#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8Mbps)
-udp://@225.1.2.249:30120
-#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (HD 8Mbps)
-udp://@225.1.2.13:30120
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 (HD 8Mbps)
-udp://@225.1.2.247:30120
-#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (HD 8Mbps)
-udp://@225.1.2.20:30120
-#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8Mbps)
-udp://@225.1.1.131:30120
-#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 8Mbps)
-udp://@225.1.2.245:30120
-#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (HD 8Mbps)
-udp://@225.1.2.96:30120
-#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (HD 8Mbps)
-udp://@225.1.2.166:30120
-#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (HD 8Mbps)
-udp://@225.1.1.128:30120
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ (HD 8Mbps)
-udp://@225.1.2.236:30120
-#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 8Mbps)
-udp://@225.1.1.108:30120
-#-------------------Thiết yếu-------------------#
-#EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD (HD 8Mbps)
-udp://@225.1.2.169:30120
-#EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 8Mbps)
-udp://@225.1.2.217:30120
-#-------------------HTV/HTVC-------------------#
-#EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel (HD 8Mbps)
-udp://@225.1.1.193:30120
-#EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD (HD 8Mbps)
-udp://@225.1.1.192:30120
-#EXTINF:0 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 HD (HD 8Mbps)
-udp://@225.1.1.190:30120
-#EXTINF:0 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao (HD 8Mbps)
-udp://@225.1.1.165:30120
-#EXTINF:0 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc (HD 8Mbps)
-udp://@225.1.1.185:30120
-#EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống (HD 8Mbps)
-udp://@225.1.1.166:30120
-#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia Đình (HD 8Mbps)
-udp://@225.1.1.170:30120
-#EXTINF:0 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim (HD 8Mbps)
-udp://@225.1.1.184:30120
-#EXTINF:0 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ Nữ (HD 8Mbps)
-udp://@225.1.1.171:30120
-#EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt (HD 8Mbps)
-udp://@225.1.1.186:30120
-#EXTINF:0 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ (HD 8Mbps)
-udp://@225.1.1.181:30120
-#EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
-udp://@225.1.1.180:30120
-#EXTINF:0 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
-udp://@225.1.1.178:30120
-#EXTINF:0 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys
-udp://@225.1.1.177:30120
-#-------------------SCTV-------------------#
-#EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 (HD 8Mbps)
-udp://@225.1.1.188:30120
-#-------------------Địa phương-------------------#
-#EXTINF:0 tvg-id="laocai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Lào Cai (HD 8Mbps)
-udp://@225.1.1.119:30120
-#EXTINF:0 tvg-id="yenbai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV HD _ TH Yên Bái (HD 8Mbps)
-udp://@225.1.1.39:30120
-#EXTINF:0 tvg-id="dienbien" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH Điện Biên (HD 8Mbps)
-udp://@225.1.1.74:30120
-#EXTINF:0 tvg-id="hoabinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cgKnwnX.png",HBTV HD _ TH Hòa Bình (HD 8Mbps)
-udp://@225.1.2.168:30120
-#EXTINF:0 tvg-id="laichau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV HD _ TH Lai Châu (HD 8Mbps)
-udp://@225.1.2.36:30120
-#EXTINF:0 tvg-id="hagiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/h7uPIEP.png",HGTV _ TH Hà Giang (HD 8Mbps)
-udp://@225.1.1.62:30120
-#EXTINF:0 tvg-id="caobang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD _ TH Cao Bằng (HD 8Mbps)
-udp://@225.1.1.102:30120
-#EXTINF:0 tvg-id="backan" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/msjevyp.png",TBK HD _ TH Bắc Kạn (HD 8Mbps)
-udp://@225.1.1.126:30120
-#EXTINF:0 tvg-id="langson" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD _ TH Lạng Sơn (HD 8Mbps)
-udp://@225.1.1.160:30120
-#EXTINF:0 tvg-id="tuyenquang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV _ TH Tuyên Quang (HD 8Mbps)
-udp://@225.1.2.188:30120
-#EXTINF:0 tvg-id="thainguyen" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN1 HD _ TH Thái Nguyên (HD 8Mbps)
-udp://@225.1.2.179:30120
-#EXTINF:0 tvg-id="phutho" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH Phú Thọ (HD 8Mbps)
-udp://@225.1.2.165:30120
-#EXTINF:0 tvg-id="bacgiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV _ TH Bắc Giang (HD 8Mbps)
-udp://@225.1.1.164:30120
-#EXTINF:0 tvg-id="quangninh1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Quảng Ninh (HD 8Mbps)
-udp://@225.1.2.181:30120
-#EXTINF:0 tvg-id="quangninh3" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH Quảng Ninh (HD 8Mbps)
-udp://@225.1.2.180:30120
-#EXTINF:0 tvg-id="bacninh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV _ TH Bắc Ninh (HD 8Mbps)
-udp://@225.1.1.40:30120
-#EXTINF:0 tvg-id="hanoi1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà Nội (HD 8Mbps)
-udp://@225.1.2.186:30120
-#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH Hà Nội (HD 8Mbps)
-udp://@225.1.1.125:30120
-#EXTINF:0 tvg-id="haiduong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QmzXd4R.png",THD _ TH Hải Dương (HD 8Mbps)
-udp://@225.1.1.158:30120
-#EXTINF:0 tvg-id="haiphong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. Hải Phòng (HD 8Mbps)
-udp://@225.1.1.44:30120
-#EXTINF:0 tvg-id="ninhbinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NTV HD _ TH Ninh Bình (HD 8Mbps)
-udp://@225.1.2.185:30120
-#EXTINF:0 tvg-id="thaibinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/fP7B6A4.png",TBTV HD _ TH Thái Bình (HD 8Mbps)
-udp://@225.1.1.99:30120
-#EXTINF:0 tvg-id="vinhphuc" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/rrxDn5n.png",VP HD _ TH Vĩnh Phúc (HD 8Mbps)
-udp://@225.1.2.99:30120
-#EXTINF:0 tvg-id="nghean" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH Nghệ An (HD 8Mbps)
-udp://@225.1.2.183:30120
-#EXTINF:0 tvg-id="hatinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/R4uthe7.png",HTTV HD _ TH Hà Tĩnh (HD 8Mbps)
-udp://@225.1.1.75:30120
-#EXTINF:0 tvg-id="quangbinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/8yOdFDx.png",QBTV _ TH Quảng Bình (HD 8Mbps)
-udp://@225.1.2.164:30120
-#EXTINF:0 tvg-id="quangtri" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/4TLTYfu.png",QRTV _ TH Quảng Trị (HD 8Mbps)
-udp://@225.1.1.117:30120
-#EXTINF:0 tvg-id="danang1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6OWQ8lU.png",DaNangTV1 HD _ TH TP. Đà Nẵng (HD 8Mbps)
-udp://@225.1.1.147:30120
-#EXTINF:0 tvg-id="danang2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/hkzIqEV.png",DaNangTV2 HD _ TH TP. Đà Nẵng (HD 8Mbps)
-udp://@225.1.1.146:30120
-#EXTINF:0 tvg-id="quangnam" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/uWHWxZB.png",QRT HD _ TH Quảng Nam (HD 8Mbps)
-udp://@225.1.2.50:30120
-#EXTINF:0 tvg-id="quangngai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/McmKwa8.png",PTQ _ TH Quảng Ngãi (HD 8Mbps)
-udp://@225.1.2.174:30120
-#EXTINF:0 tvg-id="binhdinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/APCkufv.png",BTV _ TH Bình Định (HD 8Mbps)
-udp://@225.1.1.145:30120
-#EXTINF:0 tvg-id="phuyen" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/r2xMHkT.png",PTP HD _ TH Phú Yên (HD 8Mbps)
-udp://@225.1.2.58:30120
-#EXTINF:0 tvg-id="khanhhoa" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ TH Khánh Hòa (HD 8Mbps)
-udp://@225.1.1.133:30120
-#EXTINF:0 tvg-id="ninhthuan" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cx5AaTV.png",NTV HD _ TH Ninh Thuận (HD 8Mbps)
-udp://@225.1.2.178:30120
-#EXTINF:0 tvg-id="binhthuan" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Bu1xsiJ.png",BTV HD _ TH Bình Thuận (HD 8Mbps)
-udp://@225.1.1.124:30120
-#EXTINF:0 tvg-id="kontum" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/C4yYbbi.png",KRT _ TH Kon Tum (HD 8Mbps)
-udp://@225.1.1.36:30120
-#EXTINF:0 tvg-id="gialai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/csqFzvA.png",THGL HD _ TH Gia Lai (HD 8Mbps)
-udp://@225.1.2.176:30120
-#EXTINF:0 tvg-id="daklak" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH Đắk Lắk (HD 8Mbps)
-udp://@225.1.1.64:30120
-#EXTINF:0 tvg-id="lamdong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV HD _ TH Lâm Đồng (HD 8Mbps)
-udp://@225.1.2.177:30120
-#EXTINF:0 tvg-id="binhphuoc1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/DHWoGfP.png",BPTV1 HD _ TH Bình Phước (HD 8Mbps)
-udp://@225.1.2.23:30120
-#EXTINF:0 tvg-id="binhphuoc2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/CyhvaPs.png",BPTV2 HD _ TH Bình Phước (HD 8Mbps)
-udp://@225.1.2.38:30120
-#EXTINF:0 tvg-id="binhduong1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH Bình Dương (HD 8Mbps)
-udp://@225.1.1.150:30120
-#EXTINF:0 tvg-id="binhduong2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/LpV0d3Q.png",BTV2 HD _ TH Bình Dương (HD 8Mbps)
-udp://@225.1.1.149:30120
-#EXTINF:0 tvg-id="anvienhd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel (HD 8Mbps)
-udp://@225.1.2.189:30120
-#EXTINF:0 tvg-id="dongnai1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/blOZQPI.png",ĐNRTV1 HD _ TH Đồng Nai (HD 8Mbps)
-udp://@225.1.1.152:30120
-#EXTINF:0 tvg-id="dongnai2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/tIvmaaX.png",ĐNRTV2 HD _ TH Đồng Nai (HD 8Mbps)
-udp://@225.1.1.151:30120
-#EXTINF:0 tvg-id="tayninh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH Tây Ninh (HD 8Mbps)
-udp://@225.1.1.130:30120
-#EXTINF:0 tvg-id="vungtau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD _ TH Bà Rịa Vũng Tàu (HD 8Mbps)
-udp://@225.1.2.175:30120
-#EXTINF:0 tvg-id="dongthap" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH Đồng Tháp (HD 8Mbps)
-udp://@225.1.1.163:30120
-#EXTINF:0 tvg-id="" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây (HD 8Mbps)
-udp://@225.1.1.210:30120
-#EXTINF:0 tvg-id="tiengiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD _ TH Tiền Giang (HD 8Mbps)
-udp://@225.1.2.170:30120
-#EXTINF:0 tvg-id="angiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/2On2R0G.png",ATV _ TH An Giang (HD 8Mbps)
-udp://@225.1.2.173:30120
-#EXTINF:0 tvg-id="bentre" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/9UZtJvv.png",THBT HD _ TH Bến Tre (HD 8Mbps)
-udp://@225.1.1.156:30120
-#EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vĩnh Long (HD 8Mbps)
-udp://@225.1.1.155:30120
-#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH Vĩnh Long (HD 8Mbps)
-udp://@225.1.1.154:30120
-#EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH Vĩnh Long (HD 8Mbps)
-udp://@225.1.1.235:30120
-#EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH Vĩnh Long (HD 8Mbps)
-udp://@225.1.2.25:30120
-#EXTINF:0 tvg-id="travinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD _ TH Trà Vinh (HD 8Mbps)
-udp://@225.1.2.172:30120
-#EXTINF:0 tvg-id="haugiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV HD _ TH Hậu Giang (HD 8Mbps)
-udp://@225.1.1.157:30120
-#EXTINF:0 tvg-id="kiengiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/jCTogPb.png",KG _ TH Kiên Giang (HD 8Mbps)
-udp://@225.1.2.182:30120
-#EXTINF:0 tvg-id="baclieu" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/FoAzh3R.png",BLTV HD _ TH Bạc Liêu (HD 8Mbps)
-udp://@225.1.1.61:30120
-#EXTINF:0 tvg-id="camau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD _ TH Cà Mau (HD 8Mbps)
-udp://@225.1.1.104:30120
-#EXTINF:0 tvg-id="cantho" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT HD _ TH TP. Cần Thơ (HD 8Mbps)
-udp://@225.1.1.132:30120
-#EXTINF:0 tvg-id="sonla" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV _ TH Sơn La
-udp://@225.1.1.98:30120
-#EXTINF:0 tvg-id="hanam" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/DCSPntI.png",THHN _ TH Hà Nam
-udp://@225.1.1.63:30120
-#EXTINF:0 tvg-id="hungyen" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY _ TH Hưng Yên
-udp://@225.1.1.118:30120
-#EXTINF:0 tvg-id="namdinh" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/qW62XEm.png",NTV _ TH Nam Định
-udp://@225.1.1.120:30120
-#EXTINF:0 tvg-id="thanhhoa" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH Thanh Hóa
-udp://@225.1.2.184:30120
-#EXTINF:0 tvg-id="hue" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV _ TH TP. Huế
-udp://@225.1.1.161:30120
-#EXTINF:0 tvg-id="longan" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/jBWD3It.png",LA34 _ TH Long An
-udp://@225.1.1.162:30120
-#EXTINF:0 tvg-id="soctrang" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 _ TH Sóc Trăng
-udp://@225.1.1.159:30120
-#-------------------Quốc tế-------------------#
-#EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia (HD 8Mbps)
-udp://@225.1.2.21:30120
-#EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 8Mbps)
-udp://@225.1.1.231:30120
-#EXTINF:0 tvg-id="afnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network (HD 8Mbps)
-udp://@225.1.1.198:30120
-#EXTINF:0 tvg-id="axnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 8Mbps)
-udp://@225.1.2.225:30120
-#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CbeeBies (HD 8Mbps)
-udp://@225.1.1.134:30120
-#EXTINF:0 tvg-id="bbcearth" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth (HD 8Mbps)
-udp://@225.1.2.24:30120
-#EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle (HD 8Mbps)
-udp://@225.1.2.52:30120
-#EXTINF:0 tvg-id="bbcworldnews" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News (HD 8Mbps)
-udp://@225.1.2.74:30120
-#EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/rxFZgIK.png",Bloomberg (HD 8Mbps)
-udp://@225.1.2.91:30120
-#EXTINF:0 tvg-id="boomerang" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/rRDAzm4.png",Boomerang (HD 8Mbps)
-udp://@225.1.1.138:30120
-#EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network (HD 8Mbps)
-udp://@225.1.2.231:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 8Mbps)
-udp://@225.1.1.142:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax (HD 8Mbps)
-udp://@225.1.2.86:30120
-#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA (HD 8Mbps)
-udp://@225.1.1.202:30120
-#EXTINF:0 tvg-id="cnn" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (HD 8Mbps)
-udp://@225.1.1.242:30120
-#EXTINF:0 tvg-id="davinci" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci (HD 8Mbps)
-udp://@225.1.1.197:30120
-#EXTINF:0 tvg-id="discoveryasiahd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia (HD 8Mbps)
-udp://@225.1.2.223:30120
-#EXTINF:0 tvg-id="discoveryhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel (HD 8Mbps)
-udp://@225.1.1.238:30120
-#EXTINF:0 tvg-id="dreamworks" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks (HD 8Mbps)
-udp://@225.1.1.136:30120
-#EXTINF:0 tvg-id="dw" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English) (HD 8Mbps)
-udp://@225.1.1.46:30120
-#EXTINF:0 tvg-id="fashionhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV (HD 8Mbps)
-udp://@225.1.2.227:30120
-#EXTINF:0 tvg-id="france24eng" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24 (English) (HD 8Mbps)
-udp://@225.1.2.211:30120
-#EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 8Mbps)
-udp://@225.1.1.112:30120
-#EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 8Mbps)
-udp://@225.1.2.233:30120
-#EXTINF:0 tvg-id="kbsworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World (HD 8Mbps)
-udp://@225.1.1.196:30120
-#EXTINF:0 tvg-id="kix" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/pxigRGm.png",KIX (HD 8Mbps)
-udp://@225.1.2.144:30120
-#EXTINF:0 tvg-id="nhkworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan (HD 8Mbps)
-udp://@225.1.1.47:30120
-#EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel (HD 8Mbps)
-udp://@225.1.2.215:30120
-#EXTINF:0 tvg-id="tlchd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC (HD 8Mbps)
-udp://@225.1.1.236:30120
-#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 Monde Asie (HD 8Mbps)
-udp://@225.1.1.200:30120
-#EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (HD 8Mbps)
-udp://@225.1.1.139:30120
-#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang
-udp://@225.1.1.201:30120
-#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
-udp://@225.1.1.227:30120
-#-------------------3-------------------#
-#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8.5Mbps)
-udp://@225.1.3.1:30120
-#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (HD 8.5Mbps)
-udp://@225.1.3.5:30120
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 (HD 8.5Mbps)
-udp://@225.1.3.2:30120
-#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (HD 8.5Mbps)
-udp://@225.1.3.6:30120
-#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8.5Mbps)
-udp://@225.1.3.4:30120
-#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 8.5Mbps)
-udp://@225.1.3.3:30120
-#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (HD 8.5Mbps)
-udp://@225.1.3.15:30120
-#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (HD 8.5Mbps)
-udp://@225.1.3.11:30120
-#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (HD 8.5Mbps)
-udp://@225.1.3.9:30120
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ (HD 8.5Mbps)
-udp://@225.1.3.42:30120
-#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 8.5Mbps)
-udp://@225.1.3.30:30120
-#EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD (HD 8.5Mbps)
-udp://@225.1.3.23:30120
-#EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 8Mbps)
-udp://@225.1.3.54:30120
-#EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel (HD 8.5Mbps)
-udp://@225.1.3.13:30120
-#EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD (HD 8.5Mbps)
-udp://@225.1.3.8:30120
-#EXTINF:0 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 HD (HD 8.5Mbps)
-udp://@225.1.3.12:30120
-#EXTINF:0 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao (HD 8Mbps)
-udp://@225.1.3.25:30120
-#EXTINF:0 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc (HD 8Mbps)
-udp://@225.1.3.97:30120
-#EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống (HD 8Mbps)
-udp://@225.1.3.21:30120
-#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia Đình (HD 8Mbps)
-udp://@225.1.3.84:30120
-#EXTINF:0 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim (HD 8Mbps)
-udp://@225.1.3.68:30120
-#EXTINF:0 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ Nữ (HD 8Mbps)
-udp://@225.1.3.53:30120
-#EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt (HD 8Mbps)
-udp://@225.1.3.28:30120
-#EXTINF:0 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ (HD 8Mbps)
-udp://@225.1.3.98:30120
-#EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
-udp://@225.1.3.125:30120
-#EXTINF:0 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
-udp://@225.1.3.36:30120
-#EXTINF:0 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys
-udp://@225.1.3.127:30120
-#EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 (HD 8Mbps)
-udp://@225.1.3.34:30120
-#EXTINF:0 tvg-id="yenbai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV HD _ TH Yên Bái (HD 8Mbps)
-udp://@225.1.3.166:30120
-#EXTINF:0 tvg-id="tuyenquang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV _ TH Tuyên Quang (HD 8Mbps)
-udp://@225.1.3.101:30120
-#EXTINF:0 tvg-id="thainguyen" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN1 HD _ TH Thái Nguyên (HD 8Mbps)
-udp://@225.1.3.62:30120
-#EXTINF:0 tvg-id="phutho" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH Phú Thọ (HD 8Mbps)
-udp://@225.1.3.71:30120
-#EXTINF:0 tvg-id="bacgiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV _ TH Bắc Giang (HD 8Mbps)
-udp://@225.1.3.145:30120
-#EXTINF:0 tvg-id="quangninh1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Quảng Ninh (HD 8Mbps)
-udp://@225.1.3.32:30120
-#EXTINF:0 tvg-id="quangninh3" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH Quảng Ninh (HD 8Mbps)
-udp://@225.1.3.162:30120
-#EXTINF:0 tvg-id="hanoi1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà Nội (HD 8Mbps)
-udp://@225.1.3.22:30120
-#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH Hà Nội (HD 8Mbps)
-udp://@225.1.3.49:30120
-#EXTINF:0 tvg-id="haiphong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. Hải Phòng (HD 8Mbps)
-udp://@225.1.3.80:30120
-#EXTINF:0 tvg-id="vinhphuc" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/rrxDn5n.png",VP HD _ TH Vĩnh Phúc (HD 8Mbps)
-udp://@225.1.3.43:30120
-#EXTINF:0 tvg-id="nghean" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH Nghệ An (HD 8Mbps)
-udp://@225.1.3.159:30120
-#EXTINF:0 tvg-id="danang1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6OWQ8lU.png",DaNangTV1 HD _ TH TP. Đà Nẵng (HD 8Mbps)
-udp://@225.1.3.99:30120
-#EXTINF:0 tvg-id="danang2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/hkzIqEV.png",DaNangTV2 HD _ TH TP. Đà Nẵng (HD 8Mbps)
-udp://@225.1.3.106:30120
-#EXTINF:0 tvg-id="khanhhoa" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ TH Khánh Hòa (HD 8Mbps)
-udp://@225.1.3.74:30120
-#EXTINF:0 tvg-id="binhthuan" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Bu1xsiJ.png",BTV HD _ TH Bình Thuận (HD 8Mbps)
-udp://@225.1.3.104:30120
-#EXTINF:0 tvg-id="kontum" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/C4yYbbi.png",KRT _ TH Kon Tum (HD 8Mbps)
-udp://@225.1.3.110:30120
-#EXTINF:0 tvg-id="binhduong1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH Bình Dương (HD 8Mbps)
-udp://@225.1.3.64:30120
-#EXTINF:0 tvg-id="binhduong2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/LpV0d3Q.png",BTV2 HD _ TH Bình Dương (HD 8Mbps)
-udp://@225.1.3.82:30120
-#EXTINF:0 tvg-id="anvienhd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel (HD 8Mbps)
-udp://@225.1.3.58:30120
-#EXTINF:0 tvg-id="dongnai1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/blOZQPI.png",ĐNRTV1 HD _ TH Đồng Nai (HD 8Mbps)
-udp://@225.1.3.60:30120
-#EXTINF:0 tvg-id="dongnai2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/tIvmaaX.png",ĐNRTV2 HD _ TH Đồng Nai (HD 8Mbps)
-udp://@225.1.3.65:30120
-#EXTINF:0 tvg-id="tayninh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH Tây Ninh (HD 8Mbps)
-udp://@225.1.3.56:30120
-#EXTINF:0 tvg-id="vungtau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD _ TH Bà Rịa Vũng Tàu (HD 8Mbps)
-udp://@225.1.3.168:30120
-#EXTINF:0 tvg-id="dongthap" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH Đồng Tháp (HD 8Mbps)
-udp://@225.1.3.24:30120
-#EXTINF:0 tvg-id="" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây (HD 8Mbps)
-udp://@225.1.3.77:30120
-#EXTINF:0 tvg-id="tiengiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD _ TH Tiền Giang (HD 8Mbps)
-udp://@225.1.3.46:30120
-#EXTINF:0 tvg-id="angiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/2On2R0G.png",ATV HD _ TH An Giang (HD 8Mbps)
-udp://@225.1.3.167:30120
-#EXTINF:0 tvg-id="bentre" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/9UZtJvv.png",THBT HD _ TH Bến Tre (HD 8Mbps)
-udp://@225.1.3.122:30120
-#EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vĩnh Long (HD 8Mbps)
-udp://@225.1.3.7:30120
-#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH Vĩnh Long (HD 8Mbps)
-udp://@225.1.3.19:30120
-#EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH Vĩnh Long (HD 8Mbps)
-udp://@225.1.3.16:30120
-#EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH Vĩnh Long (HD 8Mbps)
-udp://@225.1.3.20:30120
-#EXTINF:0 tvg-id="travinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD _ TH Trà Vinh (HD 8Mbps)
-udp://@225.1.3.44:30120
-#EXTINF:0 tvg-id="haugiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV HD _ TH Hậu Giang (HD 8Mbps)
-udp://@225.1.3.126:30120
-#EXTINF:0 tvg-id="baclieu" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/FoAzh3R.png",BLTV HD _ TH Bạc Liêu (HD 8Mbps)
-udp://@225.1.3.102:30120
-#EXTINF:0 tvg-id="camau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD _ TH Cà Mau (HD 8Mbps)
-udp://@225.1.3.100:30120
-#EXTINF:0 tvg-id="cantho" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT HD _ TH TP. Cần Thơ (HD 8Mbps)
-udp://@225.1.3.69:30120
-#EXTINF:0 tvg-id="thanhhoa" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH Thanh Hóa
-udp://@225.1.3.165:30120
-#EXTINF:0 tvg-id="soctrang" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 _ TH Sóc Trăng
-udp://@225.1.3.119:30120
-#EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia (HD 8Mbps)
-udp://@225.1.3.91:30120
-#EXTINF:0 tvg-id="afnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network (HD 8Mbps)
-udp://@225.1.3.47:30120
-#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA (HD 8Mbps)
-udp://@225.1.3.86:30120
-#EXTINF:0 tvg-id="cnn" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (HD 8Mbps)
-udp://@225.1.3.90:30120
-#EXTINF:0 tvg-id="davinci" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci (HD 8Mbps)
-udp://@225.1.3.51:30120
-#EXTINF:0 tvg-id="dw" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English) (HD 8Mbps)
-udp://@225.1.3.94:30120
-#EXTINF:0 tvg-id="france24eng" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24 (English) (HD 8Mbps)
-udp://@225.1.3.29:30120
-#EXTINF:0 tvg-id="kbsworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World (HD 8Mbps)
-udp://@225.1.3.93:30120
-#EXTINF:0 tvg-id="kix" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/pxigRGm.png",KIX (HD 8Mbps)
-udp://@225.1.3.78:30120
-#EXTINF:0 tvg-id="nhkworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan (HD 8Mbps)
-udp://@225.1.3.92:30120
-#EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel (HD 8Mbps)
-udp://@225.1.3.85:30120
-#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 Monde Asie (HD 8Mbps)
-udp://@225.1.3.70:30120
-#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang
-udp://@225.1.3.135:30120
-#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
-udp://@225.1.3.143:30120
-
-#-------------------FPT Play-------------------#
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 4Mbps)
-udp://@225.1.4.1:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (HD 4Mbps)
-udp://@225.1.4.2:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 (HD 4Mbps)
-udp://@225.1.4.3:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (HD 4Mbps)
-udp://@225.1.4.4:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8Mbps)
-udp://@225.1.4.5:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 4Mbps)
-udp://@225.1.4.6:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 4Mbps)
-udp://@225.1.4.108:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (HD 4Mbps)
-udp://@225.1.4.201:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (HD 4Mbps)
-udp://@225.1.4.7:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (HD 4Mbps)
-udp://@225.1.4.8:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ (HD 4Mbps)
-udp://@225.1.4.184:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 4Mbps)
-udp://@225.1.4.179:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel (HD 4Mbps)
-udp://@225.1.4.56:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD (HD 4Mbps)
-udp://@225.1.4.59:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 HD (HD 4Mbps)
-udp://@225.1.4.11:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV THỂ THAO (HD 4Mbps)
-udp://@225.1.4.60:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống (HD 4Mbps)
-udp://@225.1.4.67:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc (HD 4Mbps)
-udp://@225.1.4.223:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia Đình (HD 4Mbps)
-udp://@225.1.4.64:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim (HD 4Mbps)
-udp://@225.1.4.63:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ Nữ (HD 4Mbps)
-udp://@225.1.4.66:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt (HD 4Mbps)
-udp://@225.1.4.62:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ (HD 4Mbps)
-udp://@225.1.4.91:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 (HD 4Mbps)
-udp://@225.1.4.211:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD (HD 4Mbps)
-udp://@225.1.4.221:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 4Mbps)
-udp://@225.1.4.170:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV HD _ TH Bắc Giang
-udp://@225.1.4.173:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà Nội (HD 4Mbps)
-udp://@225.1.4.203:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 HD _ TH Đồng Tháp (HD 4Mbps)
-udp://@225.1.4.125:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây (HD 4Mbps)
-udp://@225.1.4.177:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vĩnh Long (HD 4Mbps)
-udp://@225.1.4.202:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH Vĩnh Long (HD 4Mbps)
-udp://@225.1.4.87:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH Vĩnh Long (HD 4Mbps)
-udp://@225.1.4.176:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH Vĩnh Long (HD 4Mbps)
-udp://@225.1.4.217:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD _ TH Trà Vinh (HD 4Mbps)
-udp://@225.1.4.164:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV HD _ TH Hậu Giang (HD 4Mbps)
-udp://@225.1.4.133:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC AUSTRALIA (HD 4Mbps)
-udp://@225.1.4.19:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 4Mbps)
-udp://@225.1.4.209:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network (HD 4Mbps)
-udp://@225.1.4.36:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 4Mbps)
-udp://@225.1.4.9:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies (HD 4Mbps)
-udp://@225.1.4.29:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth (HD 4Mbps)
-udp://@225.1.4.21:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle (HD 4Mbps)
-udp://@225.1.4.23:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News (HD 4Mbps)
-udp://@225.1.4.22:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/rxFZgIK.png",BLOOMBERG (HD 4Mbps)
-udp://@225.1.4.18:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/rRDAzm4.png",Boomerang (HD 4Mbps)
-udp://@225.1.4.16:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK (HD 4Mbps)
-udp://@225.1.4.13:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA (HD 4Mbps)
-udp://@225.1.4.76:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (HD 4Mbps)
-udp://@225.1.4.17:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci (HD 4Mbps)
-udp://@225.1.4.208:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia (HD 4Mbps)
-udp://@225.1.4.25:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel (HD 4Mbps)
-udp://@225.1.4.24:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks (HD 4Mbps)
-udp://@225.1.4.39:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English) (HD 4Mbps)
-udp://@225.1.4.75:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/ALDt1JX.png",FASHION TV (HD 4Mbps)
-udp://@225.1.4.20:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/YF2zMTz.png",FRANCE 24 (HD 4Mbps)
-udp://@225.1.4.212:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 4Mbps)
-udp://@225.1.4.90:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 4Mbps)
-udp://@225.1.4.183:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS WORLD (HD 4Mbps)
-udp://@225.1.4.214:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN (HD 4Mbps)
-udp://@225.1.4.73:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel (HD 4Mbps)
-udp://@225.1.4.210:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC (HD 4Mbps)
-udp://@225.1.4.26:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 MONDE ASIE (HD 4Mbps)
-udp://@225.1.4.213:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV HD (HD 4Mbps)
-udp://@225.1.4.14:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",HTV1
-udp://@225.1.4.55:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",HTV3
-udp://@225.1.4.57:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",HTV Keys
-udp://@225.1.4.58:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",QTV3 HD _ TH Quảng Ninh
-udp://@225.1.4.86:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",BPTV2 HD _ TH Bình Phước
-udp://@225.1.4.80:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",BTV2 HD _ TH Bình Dương
-udp://@225.1.4.81:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",ĐNRTV2 HD _ TH Đồng Nai
-udp://@225.1.4.85:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Arirang
-udp://@225.1.4.74:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",CNBC
-udp://@225.1.4.77:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",BTV9 An Viên HD
-udp://@225.1.4.99:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Bạc Liêu HD
-udp://@225.1.4.109:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Bắc Ninh HD
-udp://@225.1.4.110:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Bến Tre HD
-udp://@225.1.4.111:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Bình Định HD
-udp://@225.1.4.112:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Bình Phước 1 HD
-udp://@225.1.4.113:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Bình Thuận HD
-udp://@225.1.4.114:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Bình Dương 1 HD
-udp://@225.1.4.115:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Cà Mau HD
-udp://@225.1.4.117:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Cần Thơ HD
-udp://@225.1.4.118:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Cao Bằng HD
-udp://@225.1.4.119:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Đà Nẵng 1 HD
-udp://@225.1.4.120:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Đà Nẵng 2 HD
-udp://@225.1.4.121:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Đắk Lắk HD
-udp://@225.1.4.122:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Điện Biên HD
-udp://@225.1.4.123:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Đồng Nai 1 HD
-udp://@225.1.4.124:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Gia Lai HD
-udp://@225.1.4.126:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Hà Giang HD
-udp://@225.1.4.127:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Hà Nam
-udp://@225.1.4.128:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Hà Tĩnh HD
-udp://@225.1.4.129:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Hải Dương HD
-udp://@225.1.4.130:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Hải Phòng HD
-udp://@225.1.4.131:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Hà Nội 2 HD
-udp://@225.1.4.132:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Hòa Bình HD
-udp://@225.1.4.134:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Thừa Thiên Huế
-udp://@225.1.4.135:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Hưng Yên
-udp://@225.1.4.136:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Khánh Hòa HD
-udp://@225.1.4.137:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Kiên Giang HD
-udp://@225.1.4.138:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Kon Tum HD
-udp://@225.1.4.139:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Lai Châu HD
-udp://@225.1.4.140:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Lâm Đồng HD
-udp://@225.1.4.141:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Lạng Sơn HD
-udp://@225.1.4.142:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Lào Cai HD
-udp://@225.1.4.143:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Long An
-udp://@225.1.4.144:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Nam Định
-udp://@225.1.4.145:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Nghệ An HD
-udp://@225.1.4.146:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Ninh Bình HD
-udp://@225.1.4.147:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Ninh Thuận HD
-udp://@225.1.4.149:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Phú Thọ HD
-udp://@225.1.4.150:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Phú Yên HD
-udp://@225.1.4.151:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Quảng Bình
-udp://@225.1.4.152:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Quảng Nam HD
-udp://@225.1.4.153:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Quảng Ngãi HD
-udp://@225.1.4.154:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",QTV1 HD _ TH Quảng Ninh
-udp://@225.1.4.155:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Quảng Trị HD
-udp://@225.1.4.156:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Sóc Trăng 1
-udp://@225.1.4.157:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Sơn La
-udp://@225.1.4.158:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Tây Ninh 11 HD
-udp://@225.1.4.159:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Thái Bình HD
-udp://@225.1.4.160:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Thái Nguyên 1 HD
-udp://@225.1.4.161:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Thanh Hóa
-udp://@225.1.4.162:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Tiền Giang HD
-udp://@225.1.4.163:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Tuyên Quang HD
-udp://@225.1.4.165:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Vĩnh Phúc HD
-udp://@225.1.4.166:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Yên Bái HD
-udp://@225.1.4.167:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",An Giang HD
-udp://@225.1.4.171:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Vũng Tàu HD
-udp://@225.1.4.172:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Bắc Kạn HD
-udp://@225.1.4.174:30120
-#-------------------FPT Service-------------------#
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
+#EXTM3U
+#EXTINF:0,1 - Sự Kiện
 udp://@225.1.1.2:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
-udp://@225.1.4.199:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
-udp://@225.1.4.200:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
-udp://@225.1.2.243:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+
+#EXTINF:0,4 - ABR 1 H264
 udp://@225.1.1.10:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+
+#EXTINF:0,5 - IP12 TT ABR
 udp://@225.1.1.12:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-udp://@225.1.1.15:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-udp://@225.1.1.27:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-udp://@225.1.1.28:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-udp://@225.1.1.30:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+
+#EXTINF:0,6 - Channel 6
 udp://@225.1.1.31:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-udp://@225.1.1.32:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-udp://@225.1.1.33:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-udp://@225.1.1.34:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-udp://@225.1.1.35:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-udp://@225.1.1.37:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-udp://@225.1.1.38:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+
+#EXTINF:0,7 - Quảng Ngãi - Địa Phương
+udp://@225.1.1.36:30120
+
+#EXTINF:0,10 - Hải Phòng - Địa Phương
+udp://@225.1.1.44:30120
+
+#EXTINF:0,11 - DW
+udp://@225.1.1.46:30120
+
+#EXTINF:0,12 - NHK WORLD
+udp://@225.1.1.47:30120
+
+#EXTINF:0,13 - Đắc Lắk
+udp://@225.1.1.64:30120
+
+#EXTINF:0,14 - FPT PLAY LIVE
 udp://@225.1.1.68:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+
+#EXTINF:0,15 - FPT PLAY LIVE
 udp://@225.1.1.69:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+
+#EXTINF:0,16 - FPT PLAY LIVE
 udp://@225.1.1.70:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-udp://@225.1.1.71:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-udp://@225.1.1.72:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-udp://@225.1.1.92:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-udp://@225.1.1.93:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-udp://@225.1.1.94:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-udp://@225.1.1.95:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-udp://@225.1.1.96:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+
+#EXTINF:0,24 - Hoạt Hình
 udp://@225.1.1.97:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-udp://@225.1.1.100:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-udp://@225.1.1.101:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",VTV1 HD HEVC
-udp://@225.1.3.241:30120
-#-------------------FPT Advertisement-------------------#
-#EXTINF:0 tvg-id="" group-title="FPT Advertisement",Dolife Hospital
-udp://@225.1.1.127:30120
-#EXTINF:0 tvg-id="" group-title="FPT Advertisement",Grand Phoenix Hotel
-udp://@225.1.1.66:30120
-#EXTINF:0 tvg-id="" group-title="FPT Advertisement",The Mira Hotel
-udp://@225.1.1.123:30120
-#EXTINF:0 tvg-id="" group-title="FPT Advertisement",The Ocean Resort
-udp://@225.1.1.121:30120
-#-------------------Mua sắm-------------------#
-#EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/g6it2z6.png",ON Home Shopping (HD 4Mbps)
-udp://@225.1.1.122:30120
-#EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/g6it2z6.png",ON Home Shopping (HD 4Mbps)
-udp://@225.1.4.79:30120
-#-------------------K+-------------------#
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
-udp://@225.1.1.6:30120
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
-udp://@225.1.1.5:30120
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids (DRM)
-udp://@225.1.1.76:30120
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (DRM)
-udp://@225.1.1.73:30120
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
-udp://@225.1.1.77:30120
-#EXTINF:0,(VOV Infocard)
-udp://@225.1.2.171:30120
-#EXTINF:0,(VOV Infocard)
-udp://@225.1.4.220:30120
+
+#EXTINF:0,25 - STV
+udp://@225.1.1.98:30120
+
+#EXTINF:0,27 - Cao Bằng - Địa Phương
+udp://@225.1.1.102:30120
+
+#EXTINF:0,28 - Cà Mau - Địa Phương
+udp://@225.1.1.104:30120
+
+#EXTINF:0,29 - VTV 5
+udp://@225.1.1.108:30120
+
+#EXTINF:0,30 - Hà Nội 2
+udp://@225.1.1.109:30120
+
+#EXTINF:0,31 - HBO
+udp://@225.1.1.112:30120
+
+#EXTINF:0,32 - Hải Phòng+
+udp://@225.1.1.113:30120
+
+#EXTINF:0,33 - Quảng Tri - Địa Phương̣
+udp://@225.1.1.117:30120
+
+#EXTINF:0,34 - Hưng Yên - Địa Phương
+udp://@225.1.1.118:30120
+
+#EXTINF:0,35 - Lào Cai - Địa Phương
+udp://@225.1.1.119:30120
+
+#EXTINF:0,38 - Lâm Đồng - Địa Phương
+udp://@225.1.1.124:30120
+
+#EXTINF:0,40 - VTV 9
+udp://@225.1.1.128:30120
+
+#EXTINF:0,41 - Tây Ninh - Địa Phương
+udp://@225.1.1.130:30120
+
+#EXTINF:0,42 - VTV 5 Tiếng Mông
+udp://@225.1.1.131:30120
+
+#EXTINF:0,43 - Cần Thơ 1 - Địa Phương
+udp://@225.1.1.132:30120
+
+#EXTINF:0,44 - Khánh Hoà - Địa Phương
+udp://@225.1.1.133:30120
+
+#EXTINF:0,45 - Cbeebies - Hoạt Hình
+udp://@225.1.1.134:30120
+
+#EXTINF:0,46 - Dreamworks - Hoạt Hình
+udp://@225.1.1.136:30120
+
+#EXTINF:0,47 - Cartoonito - Hoạt Hình
+udp://@225.1.1.138:30120
+
+#EXTINF:0,48 - Warner Bros TV - Phim
+udp://@225.1.1.139:30120
+
+#EXTINF:0,49 - CinemaWorld - Phim
+udp://@225.1.1.142:30120
+
+#EXTINF:0,50 - Gia Lai - Địa Phương
+udp://@225.1.1.145:30120
+
+#EXTINF:0,51 - Đà Nẵng 2 - Địa Phương
+udp://@225.1.1.146:30120
+
+#EXTINF:0,52 - Đà Nẵng 1 - Địa Phương
+udp://@225.1.1.147:30120
+
+#EXTINF:0,53 - HTV 1
+udp://@225.1.1.150:30120
+
+#EXTINF:0,54 - Đồng Nai 2 - Địa Phương
+udp://@225.1.1.151:30120
+
+#EXTINF:0,55 - Đồng Nai 1 - Địa Phương
+udp://@225.1.1.152:30120
+
+#EXTINF:0,56 - Đồng Nai 1 - Địa Phương
+udp://@225.1.1.153:30120
+
+#EXTINF:0,57 - Vĩnh Long 2 - Địa Phương
+udp://@225.1.1.154:30120
+
+#EXTINF:0,58 - Vĩnh Long 1 - Địa Phương
+udp://@225.1.1.155:30120
+
+#EXTINF:0,59 - Cần Thơ 2 - Địa Phương
+udp://@225.1.1.157:30120
+
+#EXTINF:0,60 - Hải Phòng 2 - Địa Phương
+udp://@225.1.1.158:30120
+
+#EXTINF:0,61 - Cần Thơ 3 - Địa Phương
+udp://@225.1.1.159:30120
+
+#EXTINF:0,62 - Lạng Sơn - Địa Phương
+udp://@225.1.1.160:30120
+
+#EXTINF:0,63 - Huế - Địa Phương
+udp://@225.1.1.161:30120
+
+#EXTINF:0,64 - Tây Ninh 1 - Địa Phương
+udp://@225.1.1.162:30120
+
+#EXTINF:0,65 - Đồng Tháp 1 - Địa Phương
+udp://@225.1.1.163:30120
+
+#EXTINF:0,66 - Bắc Ninh - Địa Phương
+udp://@225.1.1.164:30120
+
+#EXTINF:0,67 - Hồ Chí Minh - Địa Phương
+udp://@225.1.1.165:30120
+
+#EXTINF:0,68 - HTVC Du Lịch & Cuộc Sống
+udp://@225.1.1.166:30120
+
+#EXTINF:0,69 - HTVC Gia Đình
+udp://@225.1.1.170:30120
+
+#EXTINF:0,70 - HTVC Phụ Nữ
+udp://@225.1.1.171:30120
+
+#EXTINF:0,71 - An Giang 3 - Địa Phương
+udp://@225.1.1.174:30120
+
+#EXTINF:0,72 - HTV 4
+udp://@225.1.1.177:30120
+
+#EXTINF:0,73 - HTV 3
+udp://@225.1.1.178:30120
+
+#EXTINF:0,74 - HTV 1
+udp://@225.1.1.180:30120
+
+#EXTINF:0,75 - HTVC Plus
+udp://@225.1.1.181:30120
+
+#EXTINF:0,76 - HTVC Phim Ảnh
+udp://@225.1.1.184:30120
+
+#EXTINF:0,77 - HTVC Ca Nhạc
+udp://@225.1.1.185:30120
+
+#EXTINF:0,78 - HTVC Thuần Việt
+udp://@225.1.1.186:30120
+
+#EXTINF:0,79 - SCTV 6
+udp://@225.1.1.188:30120
+
+#EXTINF:0,80 - HTV 9
+udp://@225.1.1.190:30120
+
+#EXTINF:0,81 - CHTV 7
+udp://@225.1.1.192:30120
+
+#EXTINF:0,82 - HTV 2
+udp://@225.1.1.193:30120
+
+#EXTINF:0,83 - KBS WORLD - Quốc Tế
+udp://@225.1.1.196:30120
+
+#EXTINF:0,84 - Da Vinci - Quốc Tế - Vi
+udp://@225.1.1.197:30120
+
+#EXTINF:0,85 - AFN - Quốc Tế - Vi
+udp://@225.1.1.198:30120
+
+#EXTINF:0,86 - TV 5 Monde - Quốc Tế -
+udp://@225.1.1.200:30120
+
+#EXTINF:0,87 - Arirang - Quốc Tế -
+udp://@225.1.1.201:30120
+
+#EXTINF:0,88 - CNA - Quốc Tế -
+udp://@225.1.1.202:30120
+
+#EXTINF:0,89 - Đồng Tháp 2 - Địa Phương
+udp://@225.1.1.210:30120
+
+#EXTINF:0,90 - CNBC - Quốc Tế
+udp://@225.1.1.227:30120
+
+#EXTINF:0,91 - Animal Planet - Vi
+udp://@225.1.1.231:30120
+
+#EXTINF:0,92 - Vĩnh Long 3
+udp://@225.1.1.235:30120
+
+#EXTINF:0,93 - Channel 93
+udp://@225.1.1.236:30120
+
+#EXTINF:0,94 - Channel 94
+udp://@225.1.1.238:30120
+
+#EXTINF:0,95 - Channel 95
+udp://@225.1.1.242:30120
+
+#EXTINF:0,96 - Channel 96
+udp://@225.1.2.13:30120
+
+#EXTINF:0,97 - Channel 97
+udp://@225.1.2.20:30120
+
+#EXTINF:0,98 - Channel 98
+udp://@225.1.2.21:30120
+
+#EXTINF:0,99 - Channel 99
+udp://@225.1.2.24:30120
+
+#EXTINF:0,100 - Channel 100
+udp://@225.1.2.25:30120
+
+#EXTINF:0,101 - Channel 101
+udp://@225.1.2.36:30120
+
+#EXTINF:0,102 - Channel 102
+udp://@225.1.2.52:30120
+
+#EXTINF:0,103 - Channel 103
+udp://@225.1.2.74:30120
+
+#EXTINF:0,104 - Channel 104
+udp://@225.1.2.86:30120
+
+#EXTINF:0,105 - Channel 105
+udp://@225.1.2.91:30120
+
+#EXTINF:0,106 - Channel 106
+udp://@225.1.2.96:30120
+
+#EXTINF:0,107 - Channel 107
+udp://@225.1.2.144:30120
+
+#EXTINF:0,108 - Channel 108
+udp://@225.1.2.165:30120
+
+#EXTINF:0,109 - Channel 109
+udp://@225.1.2.166:30120
+
+#EXTINF:0,110 - Channel 110
+udp://@225.1.2.169:30120
+
+#EXTINF:0,111 - Channel 111
+udp://@225.1.2.172:30120
+
+#EXTINF:0,112 - Channel 112
+udp://@225.1.2.173:30120
+
+#EXTINF:0,113 - Channel 113
+udp://@225.1.2.174:30120
+
+#EXTINF:0,114 - Channel 114
+udp://@225.1.2.175:30120
+
+#EXTINF:0,115 - Channel 115
+udp://@225.1.2.177:30120
+
+#EXTINF:0,116 - Channel 116
+udp://@225.1.2.178:30120
+
+#EXTINF:0,117 - Channel 117
+udp://@225.1.2.179:30120
+
+#EXTINF:0,118 - Channel 118
+udp://@225.1.2.180:30120
+
+#EXTINF:0,119 - Channel 119
+udp://@225.1.2.181:30120
+
+#EXTINF:0,120 - Channel 120
+udp://@225.1.2.182:30120
+
+#EXTINF:0,121 - Channel 121
+udp://@225.1.2.183:30120
+
+#EXTINF:0,122 - Channel 122
+udp://@225.1.2.184:30120
+
+#EXTINF:0,123 - Channel 123
+udp://@225.1.2.185:30120
+
+#EXTINF:0,124 - Channel 124
+udp://@225.1.2.186:30120
+
+#EXTINF:0,125 - Channel 125
+udp://@225.1.2.188:30120
+
+#EXTINF:0,126 - Channel 126
+udp://@225.1.2.189:30120
+
+#EXTINF:0,127 - Channel 127
+udp://@225.1.2.190:30120
+
+#EXTINF:0,128 - Channel 128
+udp://@225.1.2.211:30120
+
+#EXTINF:0,129 - Channel 129
+udp://@225.1.2.215:30120
+
+#EXTINF:0,130 - Channel 130
+udp://@225.1.2.217:30120
+
+#EXTINF:0,131 - Channel 131
+udp://@225.1.2.223:30120
+
+#EXTINF:0,132 - Channel 132
+udp://@225.1.2.225:30120
+
+#EXTINF:0,133 - Channel 133
+udp://@225.1.2.227:30120
+
+#EXTINF:0,134 - Channel 134
+udp://@225.1.2.231:30120
+
+#EXTINF:0,135 - Channel 135
+udp://@225.1.2.233:30120
+
+#EXTINF:0,136 - Channel 136
+udp://@225.1.2.236:30120
+
+#EXTINF:0,137 - 01.CDN_Ateme_LLC_Football
+udp://@225.1.2.242:30120
+
+#EXTINF:0,138 - Channel 138
+udp://@225.1.2.245:30120
+
+#EXTINF:0,139 - Channel 139
+udp://@225.1.2.247:30120
+
+#EXTINF:0,140 - Channel 140
+udp://@225.1.2.249:30120
+
+#EXTINF:0,141 - VTV1 HD 8M
+udp://@225.1.3.1:30120
+
+#EXTINF:0,142 - VTV3 HD 8M
+udp://@225.1.3.2:30120
+
+#EXTINF:0,143 - VTV Can Tho HD 8M
+udp://@225.1.3.3:30120
+
+#EXTINF:0,144 - VTV5 HD 8M
+udp://@225.1.3.4:30120
+
+#EXTINF:0,145 - VTV2 HD 8M
+udp://@225.1.3.5:30120
+
+#EXTINF:0,146 - VTV4 HD 8M
+udp://@225.1.3.6:30120
+
+#EXTINF:0,147 - THVL1 HD
+udp://@225.1.3.7:30120
+
+#EXTINF:0,148 - HTV7 HD
+udp://@225.1.3.8:30120
+
+#EXTINF:0,149 - VTV9 HD 8M
+udp://@225.1.3.9:30120
+
+#EXTINF:0,150 - VTV8HD 8M
+udp://@225.1.3.11:30120
+
+#EXTINF:0,151 - HTV9 HD
+udp://@225.1.3.12:30120
+
+#EXTINF:0,152 - HTV2 HD
+udp://@225.1.3.13:30120
+
+#EXTINF:0,153 - VTV7 HD 8M
+udp://@225.1.3.15:30120
+
+#EXTINF:0,154 - THVL3 HD
+udp://@225.1.3.16:30120
+
+#EXTINF:0,155 - THVL2 HD
+udp://@225.1.3.19:30120
+
+#EXTINF:0,156 - THVL4 HD
+udp://@225.1.3.20:30120
+
+#EXTINF:0,157 - Ha Noi TV1
+udp://@225.1.3.22:30120
+
+#EXTINF:0,158 - ANTV
+udp://@225.1.3.23:30120
+
+#EXTINF:0,159 - THDT1 HD
+udp://@225.1.3.24:30120
+
+#EXTINF:0,160 - Channel 160
+udp://@225.1.3.25:30120
+
+#EXTINF:0,161 - Channel 161
+udp://@225.1.3.28:30120
+
+#EXTINF:0,162 - France24 HD
+udp://@225.1.3.29:30120
+
+#EXTINF:0,163 - VTV5 Tay Nguyen
+udp://@225.1.3.30:30120
+
+#EXTINF:0,164 - Channel 164
+udp://@225.1.3.34:30120
+
+#EXTINF:0,165 - Channel 165
+udp://@225.1.3.36:30120
+
+#EXTINF:0,166 - VTV5 TNB HD
+udp://@225.1.3.42:30120
+
+#EXTINF:0,167 - Channel 167
+udp://@225.1.3.44:30120
+
+#EXTINF:0,168 - Channel 168
+udp://@225.1.3.46:30120
+
+#EXTINF:0,169 - Ha Noi TV2
+udp://@225.1.3.49:30120
+
+#EXTINF:0,170 - Davinci HD
+udp://@225.1.3.51:30120
+
+#EXTINF:0,171 - Channel 171
+udp://@225.1.3.54:30120
+
+#EXTINF:0,172 - Channel 172
+udp://@225.1.3.58:30120
+
+#EXTINF:0,173 - Channel 173
+udp://@225.1.3.64:30120
+
+#EXTINF:0,174 - Channel 174
+udp://@225.1.3.68:30120
+
+#EXTINF:0,175 - TV5 Monde HD
+udp://@225.1.3.70:30120
+
+#EXTINF:0,176 - THDT2 - Mien Tay HD
+udp://@225.1.3.77:30120
+
+#EXTINF:0,177 - KIX HD
+udp://@225.1.3.78:30120
+
+#EXTINF:0,178 - Channel 178
+udp://@225.1.3.80:30120
+
+#EXTINF:0,179 - Channel 179
+udp://@225.1.3.84:30120
+
+#EXTINF:0,180 - Channel 180
+udp://@225.1.3.85:30120
+
+#EXTINF:0,181 - CNA HD
+udp://@225.1.3.86:30120
+
+#EXTINF:0,182 - CNN HD
+udp://@225.1.3.90:30120
+
+#EXTINF:0,183 - ABC Australia
+udp://@225.1.3.91:30120
+
+#EXTINF:0,184 - NHK HD
+udp://@225.1.3.92:30120
+
+#EXTINF:0,185 - DW HD
+udp://@225.1.3.94:30120
+
+#EXTINF:0,186 - VietNam Today
+udp://@225.1.3.95:30120
+
+#EXTINF:0,187 - Channel 187
+udp://@225.1.3.127:30120
+
+#EXTINF:0,188 - Channel 188
+udp://@225.1.3.153:30120
+
+#EXTINF:0,189 - Channel 189
+udp://@225.1.4.1:30120
+
+#EXTINF:0,190 - Channel 190
+udp://@225.1.4.2:30120
+
+#EXTINF:0,191 - Channel 191
+udp://@225.1.4.3:30120
+
+#EXTINF:0,192 - Channel 192
+udp://@225.1.4.4:30120
+
+#EXTINF:0,193 - Channel 193
+udp://@225.1.4.5:30120
+
+#EXTINF:0,194 - Channel 194
+udp://@225.1.4.6:30120
+
+#EXTINF:0,195 - Channel 195
+udp://@225.1.4.7:30120
+
+#EXTINF:0,196 - Channel 196
+udp://@225.1.4.8:30120
+
+#EXTINF:0,197 - Channel 197
+udp://@225.1.4.9:30120
+
+#EXTINF:0,198 - IP 10
+udp://@225.1.4.10:30120
+
+#EXTINF:0,199 - Channel 199
+udp://@225.1.4.11:30120
+
+#EXTINF:0,200 - IP 12
+udp://@225.1.4.12:30120
+
+#EXTINF:0,201 - Channel 201
+udp://@225.1.4.17:30120
+
+#EXTINF:0,202 - Channel 202
+udp://@225.1.4.18:30120
+
+#EXTINF:0,203 - Channel 203
+udp://@225.1.4.19:30120
+
+#EXTINF:0,204 - Channel 204
+udp://@225.1.4.20:30120
+
+#EXTINF:0,205 - Channel 205
+udp://@225.1.4.21:30120
+
+#EXTINF:0,206 - Channel 206
+udp://@225.1.4.22:30120
+
+#EXTINF:0,207 - Channel 207
+udp://@225.1.4.23:30120
+
+#EXTINF:0,208 - Channel 208
+udp://@225.1.4.24:30120
+
+#EXTINF:0,209 - Channel 209
+udp://@225.1.4.25:30120
+
+#EXTINF:0,210 - Channel 210
+udp://@225.1.4.26:30120
+
+#EXTINF:0,211 - IP 27
+udp://@225.1.4.27:30120
+
+#EXTINF:0,212 - IP 28
+udp://@225.1.4.28:30120
+
+#EXTINF:0,213 - Channel 213
+udp://@225.1.4.29:30120
+
+#EXTINF:0,214 - IP 30
+udp://@225.1.4.30:30120
+
+#EXTINF:0,215 - IP 31
+udp://@225.1.4.31:30120
+
+#EXTINF:0,216 - UHD 2 - IP 32
+udp://@225.1.4.32:30120
+
+#EXTINF:0,217 - UHD 3 - IP33
+udp://@225.1.4.33:30120
+
+#EXTINF:0,218 - IP 34
+udp://@225.1.4.34:30120
+
+#EXTINF:0,219 - UHD 4 - IP 35
+udp://@225.1.4.35:30120
+
+#EXTINF:0,220 - Channel 220
+udp://@225.1.4.36:30120
+
+#EXTINF:0,221 - IP 37
+udp://@225.1.4.37:30120
+
+#EXTINF:0,222 - UHD 5 - IP 38
+udp://@225.1.4.38:30120
+
+#EXTINF:0,223 - Channel 223
+udp://@225.1.4.39:30120
+
+#EXTINF:0,224 - Channel 224
+udp://@225.1.4.55:30120
+
+#EXTINF:0,225 - Channel 225
+udp://@225.1.4.56:30120
+
+#EXTINF:0,226 - Channel 226
+udp://@225.1.4.57:30120
+
+#EXTINF:0,227 - Channel 227
+udp://@225.1.4.58:30120
+
+#EXTINF:0,228 - Channel 228
+udp://@225.1.4.59:30120
+
+#EXTINF:0,229 - Channel 229
+udp://@225.1.4.60:30120
+
+#EXTINF:0,230 - Channel 230
+udp://@225.1.4.62:30120
+
+#EXTINF:0,231 - Channel 231
+udp://@225.1.4.63:30120
+
+#EXTINF:0,232 - IP 68
+udp://@225.1.4.68:30120
+
+#EXTINF:0,233 - IP 69
+udp://@225.1.4.69:30120
+
+#EXTINF:0,234 - IP 70
+udp://@225.1.4.70:30120
+
+#EXTINF:0,235 - IP 71
+udp://@225.1.4.71:30120
+
+#EXTINF:0,236 - IP 72
+udp://@225.1.4.72:30120
+
+#EXTINF:0,237 - Channel 237
+udp://@225.1.4.73:30120
+
+#EXTINF:0,238 - Channel 238
+udp://@225.1.4.74:30120
+
+#EXTINF:0,239 - Channel 239
+udp://@225.1.4.75:30120
+
+#EXTINF:0,240 - Channel 240
+udp://@225.1.4.76:30120
+
+#EXTINF:0,241 - Channel 241
+udp://@225.1.4.77:30120
+
+#EXTINF:0,242 - Channel 242
+udp://@225.1.4.85:30120
+
+#EXTINF:0,243 - Channel 243
+udp://@225.1.4.86:30120
+
+#EXTINF:0,244 - Channel 244
+udp://@225.1.4.87:30120
+
+#EXTINF:0,245 - Channel 245
+udp://@225.1.4.90:30120
+
+#EXTINF:0,246 - IP 92
+udp://@225.1.4.92:30120
+
+#EXTINF:0,247 - IP 93
+udp://@225.1.4.93:30120
+
+#EXTINF:0,248 - IP 94
+udp://@225.1.4.94:30120
+
+#EXTINF:0,249 - IP 95
+udp://@225.1.4.95:30120
+
+#EXTINF:0,250 - IP 96
+udp://@225.1.4.96:30120
+
+#EXTINF:0,251 - Channel 251
+udp://@225.1.4.99:30120
+
+#EXTINF:0,252 - UHD 1 - IP 100
+udp://@225.1.4.100:30120
+
+#EXTINF:0,253 - Channel 253
+udp://@225.1.4.108:30120
+
+#EXTINF:0,254 - Channel 254
+udp://@225.1.4.112:30120
+
+#EXTINF:0,255 - Channel 255
+udp://@225.1.4.114:30120
+
+#EXTINF:0,256 - Channel 256
+udp://@225.1.4.115:30120
+
+#EXTINF:0,257 - Channel 257
+udp://@225.1.4.117:30120
+
+#EXTINF:0,258 - Channel 258
+udp://@225.1.4.118:30120
+
+#EXTINF:0,259 - Channel 259
+udp://@225.1.4.119:30120
+
+#EXTINF:0,260 - Channel 260
+udp://@225.1.4.120:30120
+
+#EXTINF:0,261 - Channel 261
+udp://@225.1.4.121:30120
+
+#EXTINF:0,262 - Channel 262
+udp://@225.1.4.122:30120
+
+#EXTINF:0,263 - Channel 263
+udp://@225.1.4.123:30120
+
+#EXTINF:0,264 - Channel 264
+udp://@225.1.4.124:30120
+
+#EXTINF:0,265 - Channel 265
+udp://@225.1.4.125:30120
+
+#EXTINF:0,266 - Channel 266
+udp://@225.1.4.129:30120
+
+#EXTINF:0,267 - Channel 267
+udp://@225.1.4.130:30120
+
+#EXTINF:0,268 - Channel 268
+udp://@225.1.4.131:30120
+
+#EXTINF:0,269 - Channel 269
+udp://@225.1.4.133:30120
+
+#EXTINF:0,270 - Channel 270
+udp://@225.1.4.135:30120
+
+#EXTINF:0,271 - Channel 271
+udp://@225.1.4.137:30120
+
+#EXTINF:0,272 - Channel 272
+udp://@225.1.4.138:30120
+
+#EXTINF:0,273 - Channel 273
+udp://@225.1.4.139:30120
+
+#EXTINF:0,274 - Channel 274
+udp://@225.1.4.140:30120
+
+#EXTINF:0,275 - Channel 275
+udp://@225.1.4.141:30120
+
+#EXTINF:0,276 - Channel 276
+udp://@225.1.4.142:30120
+
+#EXTINF:0,277 - Channel 277
+udp://@225.1.4.143:30120
+
+#EXTINF:0,278 - Channel 278
+udp://@225.1.4.144:30120
+
+#EXTINF:0,279 - Channel 279
+udp://@225.1.4.146:30120
+
+#EXTINF:0,280 - Channel 280
+udp://@225.1.4.147:30120
+
+#EXTINF:0,281 - Channel 281
+udp://@225.1.4.149:30120
+
+#EXTINF:0,282 - Channel 282
+udp://@225.1.4.150:30120
+
+#EXTINF:0,283 - Channel 283
+udp://@225.1.4.154:30120
+
+#EXTINF:0,284 - Channel 284
+udp://@225.1.4.155:30120
+
+#EXTINF:0,285 - Channel 285
+udp://@225.1.4.156:30120
+
+#EXTINF:0,286 - Channel 286
+udp://@225.1.4.157:30120
+
+#EXTINF:0,287 - Channel 287
+udp://@225.1.4.158:30120
+
+#EXTINF:0,288 - Channel 288
+udp://@225.1.4.159:30120
+
+#EXTINF:0,289 - Channel 289
+udp://@225.1.4.161:30120
+
+#EXTINF:0,290 - Channel 290
+udp://@225.1.4.162:30120
+
+#EXTINF:0,291 - Channel 291
+udp://@225.1.4.164:30120
+
+#EXTINF:0,292 - Channel 292
+udp://@225.1.4.165:30120
+
+#EXTINF:0,293 - Channel 293
+udp://@225.1.4.170:30120
+
+#EXTINF:0,294 - Channel 294
+udp://@225.1.4.171:30120
+
+#EXTINF:0,295 - Channel 295
+udp://@225.1.4.172:30120
+
+#EXTINF:0,296 - Channel 296
+udp://@225.1.4.176:30120
+
+#EXTINF:0,297 - Channel 297
+udp://@225.1.4.177:30120
+
+#EXTINF:0,298 - Channel 298
+udp://@225.1.4.179:30120
+
+#EXTINF:0,299 - Channel 299
+udp://@225.1.4.183:30120
+
+#EXTINF:0,300 - Channel 300
+udp://@225.1.4.184:30120
+
+#EXTINF:0,301 - K+ Kids HD
+udp://@225.1.4.194:30120
+
+#EXTINF:0,302 - K+ Cine HD
+udp://@225.1.4.195:30120
+
+#EXTINF:0,303 - K+ Life HD
+udp://@225.1.4.196:30120
+
+#EXTINF:0,304 - K+ Sport 1 HD
+udp://@225.1.4.197:30120
+
+#EXTINF:0,305 - K+ Sport 2 HD
+udp://@225.1.4.198:30120
+
+#EXTINF:0,306 - Channel 306
+udp://@225.1.4.199:30120
+
+#EXTINF:0,307 - Channel 307
+udp://@225.1.4.200:30120
+
+#EXTINF:0,308 - Channel 308
+udp://@225.1.4.201:30120
+
+#EXTINF:0,309 - Channel 309
+udp://@225.1.4.202:30120
+
+#EXTINF:0,310 - Channel 310
+udp://@225.1.4.203:30120
+
+#EXTINF:0,311 - Channel 311
+udp://@225.1.4.208:30120
+
+#EXTINF:0,312 - Channel 312
+udp://@225.1.4.209:30120
+
+#EXTINF:0,313 - Channel 313
+udp://@225.1.4.210:30120
+
+#EXTINF:0,314 - Channel 314
+udp://@225.1.4.211:30120
+
+#EXTINF:0,315 - Channel 315
+udp://@225.1.4.214:30120
+
+#EXTINF:0,316 - Channel 316
+udp://@225.1.4.217:30120
+
+#EXTINF:0,317 - Channel 317
+udp://@225.1.4.221:30120
+
+#EXTINF:0,318 - Channel 318
+udp://@225.1.4.223:30120
+
+#EXTINF:0,319 - K+ Cine HD
+udp://@225.1.4.227:30120
+
+#EXTINF:0,320 - K+ Life HD
+udp://@225.1.4.228:30120
+
+#EXTINF:0,321 - K+ Sport 1 HD
+udp://@225.1.4.229:30120
+
+#EXTINF:0,322 - K+ Sport 2 HD
+udp://@225.1.4.230:30120
+
+#EXTINF:0,323 - K+ Kids HD
+udp://@225.1.4.231:30120
+
