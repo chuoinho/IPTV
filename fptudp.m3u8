@@ -262,16 +262,49 @@ udp://@225.1.4.9:30120
 #EXTINF:-1 tvg-id="axnhd" tvg-logo="https://i.imgur.com/Rwm7Lod.png" group-title="PHIM ẢNH" tvg-name="AXN (HD 8Mbps)",AXN (HD 8Mbps)
 udp://@225.1.2.225:30120
 
+#EXTINF:-1 tvg-id="boxmovie1" group-title="PHIM ẢNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg", Box Movie 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://toiyeuvietnam.dpdns.org/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="PHIM ẢNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/HollywoodClassic.jpg", Hollywood Classics
+https://toiyeuvietnam.dpdns.org/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="inthebox" group-title="PHIM ẢNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/INTHEBOX.jpg", In The Box
+https://toiyeuvietnam.dpdns.org/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="boxhits" group-title="PHIM ẢNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BOXHITS.jpg", Box Hits
+https://toiyeuvietnam.dpdns.org/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 group-title="PHIM ẢNH" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg", TVB VIỆT NAM
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
+
 # ==================== HOẠT HÌNH (7 kênh) ====================
+#EXTINF:-1 tvg-id="onbibi" group-title="HOẠT HÌNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/ONBIBI.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=205&time=${start}&offset=${duration}", On BiBi
+https://freem3u.xyz/api/live/play.m3u8?vid=178
+
+#EXTINF:-1 tvg-id="onkids" group-title="HOẠT HÌNH" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/onkids5_1675158859.webp" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab21-cartoon-kid/${start}/${offset}", On Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=179
+
+#EXTINF:-1 tvg-id="happykids" group-title="HOẠT HÌNH" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823512270/ee08dd0e8b64_640_360.png", Happy Kids
+https://toiyeuvietnam.dpdns.org/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="animaxhd" group-title="HOẠT HÌNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Animax.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animax HD
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1165775&extension=ts&play_token=yyA3sijrgj
+
+#EXTINF:-1 tvg-id="babytvhd" group-title="HOẠT HÌNH" tvg-logo="https://www.babytv.com/app/uploads/2019/12/LogoBabyTV-2019.png", BabyTV
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=150391&extension=ts&play_token=7pUsoprXJc
+
 #EXTINF:-1 tvg-id="fpt_service" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="HOẠT HÌNH" tvg-name="FPT Play Hoạt Hình"
 udp://@225.1.1.2:30120
+
 #EXTINF:-1 tvg-id="cbeebies" tvg-logo="https://i.imgur.com/0t99xJZ.png" group-title="HOẠT HÌNH" tvg-name="BBC CBeeBies (HD 4Mbps)",BBC CBeeBies (HD 4Mbps)
 udp://@225.1.4.29:30120
 
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://i.imgur.com/6oXQdBZ.png" group-title="HOẠT HÌNH" tvg-name="Cartoon Network (HD 4Mbps)",Cartoon Network (HD 4Mbps)
 udp://@225.1.4.13:30120
 
-#EXTINF:-1 tvg-id="boomerang" tvg-logo="https://i.imgur.com/C8nDHeY.png" group-title="HOẠT HÌNH" tvg-name="Cartoonito (HD 4Mbps)",Cartoonito (HD 4Mbps)
+#EXTINF:-1 tvg-id="cartoonito" tvg-logo="https://i.imgur.com/C8nDHeY.png" group-title="HOẠT HÌNH" tvg-name="Cartoonito (HD 4Mbps)",Cartoonito (HD 4Mbps)
 udp://@225.1.4.16:30120
 
 #EXTINF:-1 tvg-id="cbeebies" tvg-logo="https://i.imgur.com/0t99xJZ.png" group-title="HOẠT HÌNH" tvg-name="BBC CBeeBies (HD 8Mbps)",BBC CBeeBies (HD 8Mbps)
@@ -280,7 +313,7 @@ udp://@225.1.1.134:30120
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://i.imgur.com/6oXQdBZ.png" group-title="HOẠT HÌNH" tvg-name="Cartoon Network (HD 8Mbps)",Cartoon Network (HD 8Mbps)
 udp://@225.1.2.231:30120
 
-#EXTINF:-1 tvg-id="boomerang" tvg-logo="https://i.imgur.com/rRDAzm4.png" group-title="HOẠT HÌNH" tvg-name="Cartoonito (HD 8Mbps)",Cartoonito (HD 8Mbps)
+#EXTINF:-1 tvg-id="cartoonito" tvg-logo="https://i.imgur.com/rRDAzm4.png" group-title="HOẠT HÌNH" tvg-name="Cartoonito (HD 8Mbps)",Cartoonito (HD 8Mbps)
 udp://@225.1.1.138:30120
 
 #EXTINF:-1 tvg-id="dreamworks" tvg-logo="https://i.imgur.com/N69Cori.png" group-title="HOẠT HÌNH" tvg-name="Dreamworks (HD 8Mbps)",Dreamworks (HD 8Mbps)
