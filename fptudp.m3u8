@@ -853,6 +853,34 @@ http://192.168.1.251:4022/udp/225.1.3.112:30120
 #EXTINF:-1 tvg-id="thanhhoa" tvg-logo="https://i.imgur.com/NlOwltd.png" group-title="ĐỊA PHƯƠNG" tvg-name="TTV | Thanh Hóa [2]",TTV | Thanh Hóa [2]
 http://192.168.1.251:4022/udp/225.1.3.165:30120
 
+# ==================== RADIO ====================
+#EXTINF:-1 group-title="RADIO" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuQTZ7dJbMy7bUpaKXlaY4CvUoxz7IzQasYg&s", VOV1
+https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaRy8DNT2EyV0vPm1oye3N2o43VUthJ0_IdA&s", VOV2
+https://str.vov.gov.vn/vovlive/vov2.sdp_aac/chunklist_w1431660907.m3u8
+
+#EXTINF:-1 group-title="RADIO" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQx1QbZewLeQWABiffxfgjp17UIRByi-lvag&s", VOV3
+https://str.vov.gov.vn/vovlive/vov3.sdp_aac/chunklist_w300591965.m3u8
+
+
+#EXTINF:-1 group-title="RADIO" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLBmnLZ3-_NqDwr3upo_xYCff3upAVlIRJlw&s" , VOVGT HANOI
+https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLBmnLZ3-_NqDwr3upo_xYCff3upAVlIRJlw&s" , VOVGT TPHCM
+https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO" radio=true tvg-logo="https://static.wikia.nocookie.net/logos/images/8/87/Logo_VOH_AM_610KHz_%28%C4%90%C3%A0i_ti%E1%BA%BFng_n%C3%B3i_nh%C3%A2n_d%C3%A2n_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh%29.png/revision/latest/scale-to-width-down/200?cb=20230728072341&path-prefix=vi" , VOH AM 610Khz
+https://strm.voh.com.vn/radio/channel2/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpvOL70mH31XprwaoKqLHWhsLJD1oz7kkaQQ&s" , VOH FM 99.9Mhz
+https://strm.voh.com.vn/radio/channel3/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO" radio=true tvg-logo="https://static.wikia.nocookie.net/logos/images/4/49/Logo_VOH_FM_95%2C6_MHz_%28%C4%90%C3%A0i_ti%E1%BA%BFng_n%C3%B3i_nh%C3%A2n_d%C3%A2n_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh%29.png/revision/latest?cb=20230728073622&path-prefix=vi" , VOH FM 95.6Mhz
+https://strm.voh.com.vn/radio/channel1/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBTaAefBUzSTsL7Y6jjkcJAMzr8S8-lCxekg&s" , VOH FM 87.7Mhz
+https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 # ==================== SỰ KIỆN ====================
 
 #EXTINF:-1 tvg-id="event" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SỰ KIỆN" tvg-name="Event",Event
