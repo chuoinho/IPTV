@@ -275,7 +275,7 @@ https://toiyeuvietnam.dpdns.org/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
 # ==================== HOẠT HÌNH (7 kênh) ====================
-#EXTINF:-1 tvg-id="fpt_service" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="HOẠT HÌNH" tvg-name="FPT Play Hoạt Hình"
+#EXTINF:-1 tvg-id="fpt_service" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="HOẠT HÌNH" tvg-name="FPT Play Hoạt Hình",FPT Play Hoạt Hình
 udp://@225.1.1.2:30120
 
 #EXTINF:-1 tvg-id="cbeebies" tvg-logo="https://i.imgur.com/0t99xJZ.png" group-title="HOẠT HÌNH" tvg-name="BBC CBeeBies (HD 8Mbps)",BBC CBeeBies (HD 8Mbps)
