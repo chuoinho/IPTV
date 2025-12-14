@@ -299,14 +299,8 @@ udp://@225.1.4.13:30120
 #EXTINF:-1 tvg-id="cartoonito" tvg-logo="https://i.imgur.com/C8nDHeY.png" group-title="HOẠT HÌNH" tvg-name="Cartoonito (HD 4Mbps)",Cartoonito (HD 4Mbps)
 udp://@225.1.4.16:30120
 
-#EXTINF:-1 tvg-id="fpt_service" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="HOẠT HÌNH" tvg-name="FPT Play Hoạt Hình"
-udp://@225.1.1.2:30120
-
 #EXTINF:-1 tvg-id="onbibi" group-title="HOẠT HÌNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/ONBIBI.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=205&time=${start}&offset=${duration}", On BiBi
 https://freem3u.xyz/api/live/play.m3u8?vid=178
-
-#EXTINF:-1 tvg-id="onkids" group-title="HOẠT HÌNH" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/onkids5_1675158859.webp" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab21-cartoon-kid/${start}/${offset}", On Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 
 #EXTINF:-1 tvg-id="happykids" group-title="HOẠT HÌNH" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823512270/ee08dd0e8b64_640_360.png", Happy Kids
 https://toiyeuvietnam.dpdns.org/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
@@ -314,7 +308,7 @@ https://toiyeuvietnam.dpdns.org/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="babytvhd" group-title="HOẠT HÌNH" tvg-logo="https://www.babytv.com/app/uploads/2019/12/LogoBabyTV-2019.png", BabyTV
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=150391&extension=ts&play_token=7pUsoprXJc
 
-# ==================== KHÁM PHÁ (17 kênh) ====================
+# ==================== KHÁM PHÁ ====================
 #EXTINF:-1 tvg-id="bbcearth" tvg-logo="https://i.imgur.com/qUiM77S.png" group-title="KHÁM PHÁ" tvg-name="BBC Earth (HD 8Mbps)",BBC Earth (HD 8Mbps)
 udp://@225.1.2.24:30120
 
@@ -360,7 +354,7 @@ udp://@225.1.3.85:30120
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://i.imgur.com/KL9oaqc.png" group-title="KHÁM PHÁ" tvg-name="Asian Food Network (HD 4Mbps)",Asian Food Network (HD 4Mbps)
 udp://@225.1.4.36:30120
 
-# ==================== QUỐC TẾ KHÁC (21 kênh) ====================
+# ==================== QUỐC TẾ KHÁC ====================
 #EXTINF:-1 tvg-id="kix" tvg-logo="https://i.imgur.com/pxigRGm.png" group-title="QUỐC TẾ KHÁC" tvg-name="KIX (HD 8Mbps)",KIX (HD 8Mbps)
 udp://@225.1.2.144:30120
 
@@ -406,7 +400,7 @@ udp://@225.1.1.201:30120
 #EXTINF:-1 tvg-id="cnbc" tvg-logo="https://i.imgur.com/H0hAm72.png" group-title="QUỐC TẾ KHÁC" tvg-name="CNBC",CNBC
 udp://@225.1.1.227:30120
 
-# ==================== THỜI SỰ (10 kênh) ====================
+# ==================== THỜI SỰ ====================
 #EXTINF:-1 tvg-id="bbcworldnews" tvg-logo="https://i.imgur.com/hsByQfe.png" group-title="THỜI SỰ" tvg-name="BBC News (HD 8Mbps)",BBC News (HD 8Mbps)
 udp://@225.1.2.74:30120
 
@@ -437,7 +431,7 @@ udp://@225.1.3.94:30120
 #EXTINF:-1 tvg-id="france24eng" tvg-logo="https://i.imgur.com/YF2zMTz.png" group-title="THỜI SỰ" tvg-name="France 24 (English) (HD 4Mbps)",France 24 (English) (HD 4Mbps)
 udp://@225.1.3.29:30120
 
-# ==================== ĐỊA PHƯƠNG (139 kênh) ====================
+# ==================== ĐỊA PHƯƠNG ====================
 #EXTINF:-1 tvg-id="hanoi2" tvg-logo="https://i.imgur.com/HyiwlZV.png" group-title="ĐỊA PHƯƠNG" tvg-name="H2 HD | Hà Nội (HD 8Mbps)",H2 HD | Hà Nội (HD 8Mbps)
 udp://@225.1.3.49:30120
 
@@ -855,7 +849,7 @@ udp://@225.1.3.112:30120
 #EXTINF:-1 tvg-id="thanhhoa" tvg-logo="https://i.imgur.com/NlOwltd.png" group-title="ĐỊA PHƯƠNG" tvg-name="TTV | Thanh Hóa [2]",TTV | Thanh Hóa [2]
 udp://@225.1.3.165:30120
 
-# ==================== SỰ KIỆN (19 kênh) ====================
+# ==================== SỰ KIỆN ====================
 #EXTINF:-1 tvg-id="event" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SỰ KIỆN" tvg-name="Event",Event
 udp://@225.1.1.10:30120
 
