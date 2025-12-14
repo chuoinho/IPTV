@@ -218,7 +218,7 @@ udp://@225.1.4.91:30120
 #EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://i.imgur.com/pSIvTkZ.png" group-title="HTV/HTVC/SCTV/ON" tvg-name="SCTV6 (HD 4Mbps)",SCTV6 (HD 4Mbps)
 udp://@225.1.4.211:30120
 
-# ==================== THIẾT YẾU (6 kênh) ====================
+# ==================== THIẾT YẾU ====================
 #EXTINF:-1 tvg-id="antvhd" tvg-logo="https://i.imgur.com/eGkFbAh.png" group-title="THIẾT YẾU" tvg-name="ANTV HD (HD 8.5Mbps)",ANTV HD (HD 8.5Mbps)
 udp://@225.1.3.23:30120
 
@@ -237,7 +237,7 @@ udp://@225.1.4.221:30120
 #EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://i.imgur.com/UIGZw0y.png" group-title="THIẾT YẾU" tvg-name="QPVN (HD 4Mbps)",QPVN (HD 4Mbps)
 udp://@225.1.4.170:30120
 
-# ==================== PHIM ẢNH (5 kênh) ====================
+# ==================== PHIM ẢNH ====================
 #EXTINF:-1 tvg-id="cinemaworld" tvg-logo="https://i.imgur.com/vFVxJx4.png" group-title="PHIM ẢNH" tvg-name="Cinema World (HD 8Mbps)",Cinema World (HD 8Mbps)
 udp://@225.1.1.142:30120
 
@@ -274,7 +274,7 @@ https://toiyeuvietnam.dpdns.org/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="PHIM ẢNH" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg", TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
-# ==================== HOẠT HÌNH (7 kênh) ====================
+# ==================== HOẠT HÌNH ====================
 #EXTINF:-1 tvg-id="fpt_service" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="HOẠT HÌNH" tvg-name="FPT Play Hoạt Hình",FPT Play Hoạt Hình
 udp://@225.1.1.2:30120
 
