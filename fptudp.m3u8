@@ -1,6 +1,7 @@
-
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
 #EXTM3U url-tvg="https://live.qphim.xyz/epg.xml"
+#EXTM3U url-tvg="https://tvbvn.quanlehong539.workers.dev/xml"
+#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml"
 
 # ==================== VTV ====================
 
@@ -267,15 +268,16 @@ udp://@225.1.2.233:30120
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="PHIM ẢNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg", Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://toiyeuvietnam.dpdns.org/Start/VMT678_BoxMovie1
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="PHIM ẢNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/HollywoodClassic.jpg", Hollywood Classics
-https://toiyeuvietnam.dpdns.org/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/Start/VMT678_HW
 
 #EXTINF:-1 tvg-id="inthebox" group-title="PHIM ẢNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/INTHEBOX.jpg", In The Box
-https://toiyeuvietnam.dpdns.org/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/Start/VMT567_InTheBox
 
 #EXTINF:-1 tvg-id="boxhits" group-title="PHIM ẢNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BOXHITS.jpg", Box Hits
-https://toiyeuvietnam.dpdns.org/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/Start/VMT456_BoxHit
 
 #EXTINF:-1 group-title="PHIM ẢNH" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg", TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
@@ -291,9 +293,6 @@ udp://@225.1.2.231:30120
 #EXTINF:-1 tvg-id="cartoonito" tvg-logo="https://i.imgur.com/C8nDHeY.png" group-title="HOẠT HÌNH" tvg-name="Cartoonito (HD 8Mbps)",Cartoonito (HD 8Mbps)
 udp://@225.1.1.138:30120
 
-#EXTINF:-1 tvg-id="fpt_service" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="HOẠT HÌNH" tvg-name="FPT Play Hoạt Hình",FPT Play Hoạt Hình
-udp://@225.1.1.2:30120
-
 #EXTINF:-1 tvg-id="cbeebies" tvg-logo="https://i.imgur.com/0t99xJZ.png" group-title="HOẠT HÌNH" tvg-name="BBC CBeeBies (HD 8Mbps)",BBC CBeeBies (HD 8Mbps)
 udp://@225.1.1.134:30120
 
@@ -302,9 +301,6 @@ udp://@225.1.1.136:30120
 
 #EXTINF:-1 tvg-id="onbibi" group-title="HOẠT HÌNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/ONBIBI.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=205&time=${start}&offset=${duration}", On BiBi
 https://freem3u.xyz/api/live/play.m3u8?vid=178
-
-#EXTINF:-1 tvg-id="happykids" group-title="HOẠT HÌNH" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823512270/ee08dd0e8b64_640_360.png", Happy Kids
-https://toiyeuvietnam.dpdns.org/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="babytvhd" group-title="HOẠT HÌNH" tvg-logo="https://www.babytv.com/app/uploads/2019/12/LogoBabyTV-2019.png", BabyTV
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=150391&extension=ts&play_token=7pUsoprXJc
@@ -886,6 +882,9 @@ https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="event" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SỰ KIỆN" tvg-name="Event",Event
 udp://@225.1.1.10:30120
+
+#EXTINF:-1 tvg-id="fpt_service" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SỰ KIỆN" tvg-name="Event2",Event 2
+udp://@225.1.1.2:30120
 
 #EXTINF:-1 tvg-id="fpt_service" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SỰ KIỆN" tvg-name="FPT Giới Thiệu Chương Trình [2]",FPT Giới Thiệu Chương Trình [2]
 udp://@225.1.4.199:30120
