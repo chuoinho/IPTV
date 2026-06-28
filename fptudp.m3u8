@@ -12,6 +12,8 @@ udp://@225.1.4.4:30120
 udp://@225.1.4.179:30120
 #EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://i.imgur.com/xiuHjEQ.png" group-title="VTV" tvg-name="VTV5 Tây Nam Bộ (HD 4Mbps)" x-iptv-org-id="VTV5TayNamBo.vn" x-logo-source="iptv-org" x-note="TS 2.47Mbps | h264 1920x1080 25fps | aac 48kHz 131kbps" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f" x-audio-language="eng",VTV5 Tây Nam Bộ (HD 4Mbps)
 udp://@225.1.4.184:30120
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png" group-title="VTV" tvg-name="VTV6 (HD 8Mbps)" x-iptv-org-id="VTV6.vn" x-logo-source="iptv-org" x-service-name="VTV6 HD 8M" x-note="TS 7.00Mbps | h264 1920x1080 25fps | mp2 48kHz 192kbps" x-program-id="1" x-pmt-pid="2049" x-pcr-pid="513" x-video-pid="0x201" x-audio-pid="0x1011",VTV6 (HD 8Mbps)
+udp://@225.1.3.10:30120
 #EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://i.imgur.com/ZwoP823.png" group-title="VTV" tvg-name="VTV7 (HD 4Mbps)" x-iptv-org-id="VTV7.vn" x-logo-source="iptv-org" x-note="TS 3.84Mbps | h264 1920x1080 25fps | aac 48kHz 131kbps" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f" x-audio-language="eng",VTV7 (HD 4Mbps)
 udp://@225.1.4.201:30120
 #EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.imgur.com/QiY55sy.png" group-title="VTV" tvg-name="VTV9 (HD 4Mbps)" x-iptv-org-id="VTV9.vn" x-logo-source="iptv-org" x-note="TS 3.85Mbps | h264 1920x1080 25fps | aac 48kHz 131kbps" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f" x-audio-language="eng",VTV9 (HD 4Mbps)
@@ -44,8 +46,6 @@ udp://@225.1.1.131:30120
 udp://@225.1.2.236:30120
 #EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://i.imgur.com/Vnnna1C.png" group-title="VTV" tvg-name="VTV5 (HD 8Mbps)" x-iptv-org-id="VTV5.vn" x-logo-source="iptv-org" x-service-name="VTV5 HD 8M" x-note="TS 6.96Mbps | h264 1920x1080 25fps | mp2 48kHz 192kbps" x-program-id="1" x-pmt-pid="2048" x-pcr-pid="512" x-video-pid="0x200" x-audio-pid="0x1010",VTV5 (HD 8Mbps)
 udp://@225.1.3.4:30120
-#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png" group-title="VTV" tvg-name="VTV6 (HD 8Mbps)" x-iptv-org-id="VTV6.vn" x-logo-source="iptv-org" x-service-name="VTV6 HD 8M" x-note="TS 7.00Mbps | h264 1920x1080 25fps | mp2 48kHz 192kbps" x-program-id="1" x-pmt-pid="2049" x-pcr-pid="513" x-video-pid="0x201" x-audio-pid="0x1011",VTV6 (HD 8Mbps)
-udp://@225.1.3.10:30120
 #EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://i.imgur.com/ZwoP823.png" group-title="VTV" tvg-name="VTV7 (HD 8Mbps)" x-iptv-org-id="VTV7.vn" x-logo-source="iptv-org" x-note="TS 8.00Mbps | h264 1920x1080 25fps | mp2 48kHz 192kbps" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",VTV7 (HD 8Mbps)
 udp://@225.1.2.96:30120
 #EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://i.imgur.com/ZwoP823.png" group-title="VTV" tvg-name="VTV7 (HD 8Mbps)" x-iptv-org-id="VTV7.vn" x-logo-source="iptv-org" x-service-name="VTV7 HD 8M" x-note="TS 7.22Mbps | h264 1920x1080 25fps | mp2 48kHz 192kbps" x-program-id="1" x-pmt-pid="2048" x-pcr-pid="512" x-video-pid="0x200" x-audio-pid="0x1010",VTV7 (HD 8Mbps)
