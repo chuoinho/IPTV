@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://vnepg.site/epg.xml,https://lichphatsong.site/schedule/epg.xml,https://iptv-epg.org/files/epg-vn.xml,https://live.qphim.xyz/epg.xml,https://tvbvn.quanlehong539.workers.dev/xml"
+#EXTM3U url-tvg="https://epg.io.vn/epg.xml,https://lichphatsong.io.vn/epgc.xml,https://iptv-epg.org/files/epg-vn.xml,https://live.qphim.xyz/epg.xml,https://tvbvn.quanlehong539.workers.dev/xml"
 
 # ==================== VTV ====================
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="VTV" tvg-name="VTV1 (HD 8Mbps)" x-iptv-org-id="VTV1.vn" x-logo-source="iptv-org" x-note="TS 7.57Mbps | h264 1920x1080 25fps | mp2 48kHz 192kbps" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",VTV1 (HD 8Mbps)
