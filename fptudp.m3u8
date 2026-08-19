@@ -1,12 +1,8 @@
 #EXTM3U url-tvg="https://epg.io.vn/epg.xml,https://lichphatsong.io.vn/epgc.xml,https://iptv-epg.org/files/epg-vn.xml,https://live.qphim.xyz/epg.xml,https://tvbvn.quanlehong539.workers.dev/xml"
 
 # ==================== VTV ====================
-#EXTINF:-1 tvg-id="vietnamtoday" tvg-logo="https://static.mediacdn.vn/vietnamtoday/images/logo-VNToday-light.svg" group-title="VTV" tvg-name="Vietnam Today (HD 8Mbps)" x-iptv-org-id="VietnamToday.vn" x-logo-source="iptv-org" x-note="TS 8.29Mbps | h264 1920x1080 25fps | mp2 48kHz 192kbps" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",Vietnam Today (HD 8Mbps)
-udp://@225.1.2.190:30120
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="VTV" tvg-name="VTV1 (HD 8Mbps)" x-iptv-org-id="VTV1.vn" x-logo-source="iptv-org" x-note="TS 8.02Mbps | h264 1920x1080 25fps | mp2 48kHz 192kbps" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",VTV1 (HD 8Mbps)
 udp://@225.1.2.249:30120
-#EXTINF:-1 tvg-id="vtv10hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/VTV10_logo_2026.png/960px-VTV10_logo_2026.png" group-title="VTV" tvg-name="VTV10 (HD 8Mbps)" x-iptv-org-id="VTV10.vn" x-logo-source="iptv-org" x-note="TS 8.22Mbps | h264 | mp2 48kHz 192kbps" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",VTV10 (HD 8Mbps)
-udp://@225.1.2.245:30120
 #EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://i.imgur.com/qWWpYRR.png" group-title="VTV" tvg-name="VTV2 (HD 8Mbps)" x-iptv-org-id="VTV2.vn" x-logo-source="iptv-org" x-note="TS 8.01Mbps | h264 1920x1080 25fps | mp2 48kHz 192kbps" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",VTV2 (HD 8Mbps)
 udp://@225.1.2.13:30120
 #EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://i.imgur.com/4lJG1fu.png" group-title="VTV" tvg-name="VTV3 (HD 8Mbps)" x-iptv-org-id="VTV3.vn" x-logo-source="iptv-org" x-note="TS 8.02Mbps | h264 | mp2 48kHz 192kbps" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",VTV3 (HD 8Mbps)
@@ -27,6 +23,10 @@ udp://@225.1.2.96:30120
 udp://@225.1.2.166:30120
 #EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.imgur.com/QiY55sy.png" group-title="VTV" tvg-name="VTV9 (HD 8Mbps)" x-iptv-org-id="VTV9.vn" x-logo-source="iptv-org" x-note="TS 8.02Mbps | h264 | mp2 48kHz 192kbps" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x71",VTV9 (HD 8Mbps)
 udp://@225.1.1.128:30120
+#EXTINF:-1 tvg-id="vtv10hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/VTV10_logo_2026.png/960px-VTV10_logo_2026.png" group-title="VTV" tvg-name="VTV10 (HD 8Mbps)" x-iptv-org-id="VTV10.vn" x-logo-source="iptv-org" x-note="TS 8.22Mbps | h264 | mp2 48kHz 192kbps" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",VTV10 (HD 8Mbps)
+udp://@225.1.2.245:30120
+#EXTINF:-1 tvg-id="vietnamtoday" tvg-logo="https://static.mediacdn.vn/vietnamtoday/images/logo-VNToday-light.svg" group-title="VTV" tvg-name="Vietnam Today (HD 8Mbps)" x-iptv-org-id="VietnamToday.vn" x-logo-source="iptv-org" x-note="TS 8.29Mbps | h264 1920x1080 25fps | mp2 48kHz 192kbps" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",Vietnam Today (HD 8Mbps)
+udp://@225.1.2.190:30120
 
 # ==================== VTC / THIẾT YẾU ====================
 #EXTINF:-1 tvg-id="antvhd" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="VTC / THIẾT YẾU" tvg-name="ANTV (HD 8Mbps)" x-iptv-org-id="AnNinhTV.vn" x-logo-source="iptv-org" x-note="TS 8.05Mbps | h264 1920x1080 25fps | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="666" x-video-pid="0x29a" x-audio-pid="0x309",ANTV (HD 8Mbps)
@@ -43,8 +43,6 @@ udp://@225.1.1.165:30120
 udp://@225.1.3.25:30120
 
 # ==================== HTV / HTVC / SCTV / ON ====================
-#EXTINF:-1 tvg-id="fashionhd" tvg-logo="https://i.imgur.com/Bk7W39G.png" group-title="HTV / HTVC / SCTV / ON" tvg-name="Fashion TV (HD 8Mbps)" x-iptv-org-id="FashionTV.ua" x-logo-source="iptv-org" x-note="TS 7.97Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="480" x-pcr-pid="1000" x-video-pid="0x3e8" x-audio-pid="0x6e",Fashion TV (HD 8Mbps)
-udp://@225.1.2.227:30120
 #EXTINF:-1 tvg-id="htv1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HTV1.png/960px-HTV1.png" group-title="HTV / HTVC / SCTV / ON" tvg-name="HTV1 (HD 8Mbps)" x-iptv-org-id="HTV1.vn" x-logo-source="iptv-org" x-note="TS 8.05Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",HTV1 (HD 8Mbps)
 udp://@225.1.1.180:30120
 #EXTINF:-1 tvg-id="htv1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HTV1.png/960px-HTV1.png" group-title="HTV / HTVC / SCTV / ON" tvg-name="HTV1 (HD 8Mbps)" x-iptv-org-id="HTV1.vn" x-logo-source="iptv-org" x-note="TS 8.40Mbps | h264 1920x1080 25fps | aac 48kHz" x-program-id="1" x-pmt-pid="256" x-pcr-pid="100" x-video-pid="0x64" x-audio-pid="0xc8",HTV1 (HD 8Mbps)
@@ -81,12 +79,14 @@ udp://@225.1.1.186:30120
 udp://@225.1.3.28:30120
 #EXTINF:-1 tvg-id="htvcplushd" tvg-logo="https://i.imgur.com/SQ9cLJj.png" group-title="HTV / HTVC / SCTV / ON" tvg-name="HTVC+ (HD 8Mbps)" x-iptv-org-id="HTVCPlus.vn" x-logo-source="original" x-note="TS 8.06Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="480" x-pcr-pid="1000" x-video-pid="0x3e8" x-audio-pid="0x6e",HTVC+ (HD 8Mbps)
 udp://@225.1.1.181:30120
-#EXTINF:-1 tvg-id="langson" tvg-logo="https://i.imgur.com/Sj7EjYT.png" group-title="HTV / HTVC / SCTV / ON" tvg-name="LSTV | Lạng Sơn (HD 8Mbps)" x-iptv-org-id="LangSonTV.vn" x-logo-source="iptv-org" x-note="TS 8.05Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",LSTV | Lạng Sơn (HD 8Mbps)
-udp://@225.1.1.160:30120
 #EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://i.imgur.com/2oOVS42.png" group-title="HTV / HTVC / SCTV / ON" tvg-name="SCTV6 (HD 8Mbps)" x-iptv-org-id="SCTV6.vn" x-logo-source="iptv-org" x-note="TS 8.29Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",SCTV6 (HD 8Mbps)
 udp://@225.1.1.188:30120
 #EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://i.imgur.com/2oOVS42.png" group-title="HTV / HTVC / SCTV / ON" tvg-name="SCTV6 (HD 8Mbps)" x-iptv-org-id="SCTV6.vn" x-logo-source="iptv-org" x-note="TS 8.04Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="256" x-pcr-pid="100" x-video-pid="0x64" x-audio-pid="0xc8",SCTV6 (HD 8Mbps)
 udp://@225.1.3.34:30120
+#EXTINF:-1 tvg-id="fashionhd" tvg-logo="https://i.imgur.com/Bk7W39G.png" group-title="HTV / HTVC / SCTV / ON" tvg-name="Fashion TV (HD 8Mbps)" x-iptv-org-id="FashionTV.ua" x-logo-source="iptv-org" x-note="TS 7.97Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="480" x-pcr-pid="1000" x-video-pid="0x3e8" x-audio-pid="0x6e",Fashion TV (HD 8Mbps)
+udp://@225.1.2.227:30120
+#EXTINF:-1 tvg-id="langson" tvg-logo="https://i.imgur.com/Sj7EjYT.png" group-title="HTV / HTVC / SCTV / ON" tvg-name="LSTV | Lạng Sơn (HD 8Mbps)" x-iptv-org-id="LangSonTV.vn" x-logo-source="iptv-org" x-note="TS 8.05Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",LSTV | Lạng Sơn (HD 8Mbps)
+udp://@225.1.1.160:30120
 #EXTINF:-1 tvg-id="sonla" tvg-logo="https://i.imgur.com/MxV9psR.png" group-title="HTV / HTVC / SCTV / ON" tvg-name="STV | Sơn La (HD 8Mbps)" x-iptv-org-id="SonLaTV.vn" x-logo-source="iptv-org" x-note="TS 8.06Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="598" x-video-pid="0x256" x-audio-pid="0x2bb",STV | Sơn La (HD 8Mbps)
 udp://@225.1.1.98:30120
 
@@ -103,10 +103,10 @@ udp://@225.1.2.233:30120
 udp://@225.1.1.184:30120
 #EXTINF:-1 tvg-id="htvcphimhd" tvg-logo="https://i.imgur.com/W16kIQP.png" group-title="PHIM ẢNH" tvg-name="HTVC Phim (HD 8Mbps)" x-iptv-org-id="HTVCMovies.vn" x-logo-source="original" x-note="TS 8.04Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="256" x-pcr-pid="100" x-video-pid="0x64" x-audio-pid="0xc8",HTVC Phim (HD 8Mbps)
 udp://@225.1.3.68:30120
-#EXTINF:-1 tvg-id="kix" tvg-logo="https://i.imgur.com/zWcUAdb.png" group-title="PHIM ẢNH" tvg-name="KIX (HD 4Mbps)" x-iptv-org-id="KIX.hk" x-logo-source="iptv-org" x-note="TS 8.05Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="256" x-pcr-pid="100" x-video-pid="0x64" x-audio-pid="0xc8",KIX (HD 4Mbps)
-udp://@225.1.3.78:30120
 #EXTINF:-1 tvg-id="kix" tvg-logo="https://i.imgur.com/zWcUAdb.png" group-title="PHIM ẢNH" tvg-name="KIX (HD 8Mbps)" x-iptv-org-id="KIX.hk" x-logo-source="iptv-org" x-note="TS 8.05Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",KIX (HD 8Mbps)
 udp://@225.1.2.144:30120
+#EXTINF:-1 tvg-id="kix" tvg-logo="https://i.imgur.com/zWcUAdb.png" group-title="PHIM ẢNH" tvg-name="KIX (HD 4Mbps)" x-iptv-org-id="KIX.hk" x-logo-source="iptv-org" x-note="TS 8.05Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="256" x-pcr-pid="100" x-video-pid="0x64" x-audio-pid="0xc8",KIX (HD 4Mbps)
+udp://@225.1.3.78:30120
 #EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://i.imgur.com/B9AVT2i.png" group-title="PHIM ẢNH" tvg-name="WBTV (HD 8Mbps)" x-logo-source="original" x-note="TS 8.22Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="480" x-pcr-pid="1000" x-video-pid="0x3e8" x-audio-pid="0x7d0",WBTV (HD 8Mbps)
 udp://@225.1.1.139:30120
 
@@ -167,16 +167,16 @@ udp://@225.1.1.174:30120
 udp://@225.1.1.75:30120
 #EXTINF:-1 tvg-id="bacninh" tvg-logo="https://i.imgur.com/zUFSFCV.png" group-title="ĐỊA PHƯƠNG" tvg-name="BTV | Bắc Ninh (HD 8Mbps)" x-iptv-org-id="BacNinhTV.vn" x-logo-source="iptv-org" x-note="TS 8.07Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="112" x-video-pid="0x70" x-audio-pid="0x71",BTV | Bắc Ninh (HD 8Mbps)
 udp://@225.1.1.164:30120
-#EXTINF:-1 tvg-id="caobang" tvg-logo="https://i.imgur.com/dGonewm.png" group-title="ĐỊA PHƯƠNG" tvg-name="CRTV | Cao Bằng (HD 8Mbps)" x-iptv-org-id="CaoBangTV.vn" x-logo-source="iptv-org" x-note="TS 8.05Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="666" x-video-pid="0x29a" x-audio-pid="0x7b",CRTV | Cao Bằng (HD 8Mbps)
-udp://@225.1.1.102:30120
-#EXTINF:-1 tvg-id="camau" tvg-logo="https://i.imgur.com/cYqXh3i.png" group-title="ĐỊA PHƯƠNG" tvg-name="CTV | Cà Mau (HD 8Mbps)" x-iptv-org-id="CaMauTV.vn" x-logo-source="iptv-org" x-note="TS 8.04Mbps | h264 1920x1080 25fps | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",CTV | Cà Mau (HD 8Mbps)
-udp://@225.1.1.104:30120
 #EXTINF:-1 tvg-id="cantho1" tvg-logo="https://i.ibb.co/MDhNH26J/cantho1-2025.png" group-title="ĐỊA PHƯƠNG" tvg-name="Cần Thơ 1 (HD 8Mbps)" x-iptv-org-id="CanThoTV.vn" x-logo-source="iptv-org" x-note="TS 8.04Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="42" x-video-pid="0x2a" x-audio-pid="0x34",Cần Thơ 1 (HD 8Mbps)
 udp://@225.1.1.132:30120
 #EXTINF:-1 tvg-id="cantho2" tvg-logo="https://i.ibb.co/JjVvkMsf/cantho2-2025.png" group-title="ĐỊA PHƯƠNG" tvg-name="Cần Thơ 2 (HD 8Mbps)" x-iptv-org-id="CanThoTV2.vn" x-logo-source="iptv-org" x-note="TS 8.10Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="546" x-video-pid="0x222" x-audio-pid="0x223",Cần Thơ 2 (HD 8Mbps)
 udp://@225.1.1.157:30120
 #EXTINF:-1 tvg-id="cantho3" tvg-logo="https://i.ibb.co/d4G2PD9s/cantho3-2025.png" group-title="ĐỊA PHƯƠNG" tvg-name="Cần Thơ 3 (HD 8Mbps)" x-iptv-org-id="CanThoTV3.vn" x-logo-source="iptv-org" x-note="TS 8.12Mbps | h264 1920x1080 25fps | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",Cần Thơ 3 (HD 8Mbps)
 udp://@225.1.1.159:30120
+#EXTINF:-1 tvg-id="caobang" tvg-logo="https://i.imgur.com/dGonewm.png" group-title="ĐỊA PHƯƠNG" tvg-name="CRTV | Cao Bằng (HD 8Mbps)" x-iptv-org-id="CaoBangTV.vn" x-logo-source="iptv-org" x-note="TS 8.05Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="666" x-video-pid="0x29a" x-audio-pid="0x7b",CRTV | Cao Bằng (HD 8Mbps)
+udp://@225.1.1.102:30120
+#EXTINF:-1 tvg-id="camau" tvg-logo="https://i.imgur.com/cYqXh3i.png" group-title="ĐỊA PHƯƠNG" tvg-name="CTV | Cà Mau (HD 8Mbps)" x-iptv-org-id="CaMauTV.vn" x-logo-source="iptv-org" x-note="TS 8.04Mbps | h264 1920x1080 25fps | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",CTV | Cà Mau (HD 8Mbps)
+udp://@225.1.1.104:30120
 #EXTINF:-1 tvg-id="daklak" tvg-logo="https://i.imgur.com/gFfZvTW.png" group-title="ĐỊA PHƯƠNG" tvg-name="DRT | Đắk Lắk (HD 8Mbps)" x-iptv-org-id="DakLakTV.vn" x-logo-source="iptv-org" x-note="TS 8.08Mbps | h264 1920x1080 25fps | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="112" x-video-pid="0x70" x-audio-pid="0x6f",DRT | Đắk Lắk (HD 8Mbps)
 udp://@225.1.1.64:30120
 #EXTINF:-1 tvg-id="gialai" tvg-logo="https://i.imgur.com/oUSJX0X.png" group-title="ĐỊA PHƯƠNG" tvg-name="GTV | Gia Lai (HD 8Mbps)" x-iptv-org-id="GiaLaiTV.vn" x-logo-source="iptv-org" x-note="TS 8.11Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="65" x-pcr-pid="66" x-video-pid="0x42" x-audio-pid="0x43",GTV | Gia Lai (HD 8Mbps)
@@ -189,16 +189,16 @@ udp://@225.1.1.125:30120
 udp://@225.1.1.161:30120
 #EXTINF:-1 tvg-id="hungyen" tvg-logo="https://i.imgur.com/TH1DWdm.png" group-title="ĐỊA PHƯƠNG" tvg-name="HY | Hưng Yên (HD 8Mbps)" x-iptv-org-id="HungYenTV.vn" x-logo-source="iptv-org" x-note="TS 7.84Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",HY | Hưng Yên (HD 8Mbps)
 udp://@225.1.1.118:30120
-#EXTINF:-1 tvg-id="khanhhoa" tvg-logo="https://i.imgur.com/qLMcGPT.png" group-title="ĐỊA PHƯƠNG" tvg-name="KTV | Khánh Hòa (HD 8Mbps)" x-iptv-org-id="KhanhHoaTV.vn" x-logo-source="iptv-org" x-note="TS 8.08Mbps | h264 1920x1080 25fps | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",KTV | Khánh Hòa (HD 8Mbps)
-udp://@225.1.1.133:30120
 #EXTINF:-1 tvg-id="khanhhoa1" tvg-logo="https://i.imgur.com/HIyUzLM.png" group-title="ĐỊA PHƯƠNG" tvg-name="KTV1 | Khánh Hòa (HD 8Mbps)" x-iptv-org-id="NinhThuanTV.vn" x-logo-source="iptv-org" x-note="TS 8.17Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="112" x-video-pid="0x70" x-audio-pid="0x6f",KTV1 | Khánh Hòa (HD 8Mbps)
 udp://@225.1.2.178:30120
-#EXTINF:-1 tvg-id="laichau" tvg-logo="https://i.imgur.com/DHQIHWY.png" group-title="ĐỊA PHƯƠNG" tvg-name="LTV | Lai Châu (HD 8Mbps)" x-iptv-org-id="LaiChauTV.vn" x-logo-source="iptv-org" x-note="TS 8.07Mbps | h264 1920x1080 25fps | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",LTV | Lai Châu (HD 8Mbps)
-udp://@225.1.2.36:30120
+#EXTINF:-1 tvg-id="khanhhoa" tvg-logo="https://i.imgur.com/qLMcGPT.png" group-title="ĐỊA PHƯƠNG" tvg-name="KTV | Khánh Hòa (HD 8Mbps)" x-iptv-org-id="KhanhHoaTV.vn" x-logo-source="iptv-org" x-note="TS 8.08Mbps | h264 1920x1080 25fps | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",KTV | Khánh Hòa (HD 8Mbps)
+udp://@225.1.1.133:30120
 #EXTINF:-1 tvg-id="lamdong1" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV1_LamDong.png" group-title="ĐỊA PHƯƠNG" tvg-name="LTV1 | Lâm Đồng (HD 8Mbps)" x-logo-source="original" x-note="TS 8.10Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="112" x-video-pid="0x70" x-audio-pid="0x6f",LTV1 | Lâm Đồng (HD 8Mbps)
 udp://@225.1.2.177:30120
 #EXTINF:-1 tvg-id="lamdong2" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV2_LamDong.png" group-title="ĐỊA PHƯƠNG" tvg-name="LTV2 | Lâm Đồng (HD 8Mbps)" x-logo-source="original" x-note="TS 7.75Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",LTV2 | Lâm Đồng (HD 8Mbps)
 udp://@225.1.1.124:30120
+#EXTINF:-1 tvg-id="laichau" tvg-logo="https://i.imgur.com/DHQIHWY.png" group-title="ĐỊA PHƯƠNG" tvg-name="LTV | Lai Châu (HD 8Mbps)" x-iptv-org-id="LaiChauTV.vn" x-logo-source="iptv-org" x-note="TS 8.07Mbps | h264 1920x1080 25fps | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",LTV | Lai Châu (HD 8Mbps)
+udp://@225.1.2.36:30120
 #EXTINF:-1 tvg-id="ninhbinh" tvg-logo="https://i.imgur.com/cLARkNd.png" group-title="ĐỊA PHƯƠNG" tvg-name="NBTV | Ninh Bình (HD 8Mbps)" x-iptv-org-id="NinhBinhTV.vn" x-logo-source="iptv-org" x-note="TS 8.07Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",NBTV | Ninh Bình (HD 8Mbps)
 udp://@225.1.2.185:30120
 #EXTINF:-1 tvg-id="nghean" tvg-logo="https://i.imgur.com/d9YEEwC.png" group-title="ĐỊA PHƯƠNG" tvg-name="NTV | Nghệ An (HD 8Mbps)" x-iptv-org-id="NgheAnTV.vn" x-logo-source="iptv-org" x-note="TS 8.11Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",NTV | Nghệ An (HD 8Mbps)
@@ -245,14 +245,14 @@ udp://@225.1.1.163:30120
 udp://@225.1.1.210:30120
 #EXTINF:-1 tvg-id="thainguyen" tvg-logo="https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png" group-title="ĐỊA PHƯƠNG" tvg-name="TN | Thái Nguyên (HD 8Mbps)" x-iptv-org-id="ThaiNguyenTV.vn" x-logo-source="iptv-org" x-note="TS 8.06Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",TN | Thái Nguyên (HD 8Mbps)
 udp://@225.1.2.179:30120
+#EXTINF:-1 tvg-id="tayninh1" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TTV1_TayNinh.png" group-title="ĐỊA PHƯƠNG" tvg-name="TTV1 | Tây Ninh" x-logo-source="original" x-note="TS 7.85Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",TTV1 | Tây Ninh
+udp://@225.1.1.162:30120
 #EXTINF:-1 tvg-id="thanhhoa" tvg-logo="https://i.imgur.com/LHGBwyK.png" group-title="ĐỊA PHƯƠNG" tvg-name="TTV | Thanh Hóa (HD 4Mbps)" x-iptv-org-id="ThanhHoaTV.vn" x-logo-source="iptv-org" x-note="TS 4.08Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="111" x-video-pid="0x6f" x-audio-pid="0x6e",TTV | Thanh Hóa (HD 4Mbps)
 udp://@225.1.2.184:30120
 #EXTINF:-1 tvg-id="thanhhoa" tvg-logo="https://i.imgur.com/LHGBwyK.png" group-title="ĐỊA PHƯƠNG" tvg-name="TTV | Thanh Hóa (HD 4Mbps)" x-iptv-org-id="ThanhHoaTV.vn" x-logo-source="iptv-org" x-note="TS 4.02Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="256" x-pcr-pid="100" x-video-pid="0x64" x-audio-pid="0xc8",TTV | Thanh Hóa (HD 4Mbps)
 udp://@225.1.3.165:30120
 #EXTINF:-1 tvg-id="tuyenquang" tvg-logo="https://i.imgur.com/OkAstWv.png" group-title="ĐỊA PHƯƠNG" tvg-name="TTV | Tuyên Quang (HD 8Mbps)" x-iptv-org-id="TuyenQuangTV.vn" x-logo-source="iptv-org" x-note="TS 8.08Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="112" x-video-pid="0x70" x-audio-pid="0x6e",TTV | Tuyên Quang (HD 8Mbps)
 udp://@225.1.2.188:30120
-#EXTINF:-1 tvg-id="tayninh1" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TTV1_TayNinh.png" group-title="ĐỊA PHƯƠNG" tvg-name="TTV1 | Tây Ninh" x-logo-source="original" x-note="TS 7.85Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",TTV1 | Tây Ninh
-udp://@225.1.1.162:30120
 #EXTINF:-1 tvg-id="danang1" tvg-logo="https://i.imgur.com/EOMuO1z.png" group-title="ĐỊA PHƯƠNG" tvg-name="ĐNRT1 | Đà Nẵng (HD 8Mbps)" x-iptv-org-id="DaNangTV1.vn" x-logo-source="iptv-org" x-note="TS 8.12Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="112" x-video-pid="0x70" x-audio-pid="0x71",ĐNRT1 | Đà Nẵng (HD 8Mbps)
 udp://@225.1.1.147:30120
 #EXTINF:-1 tvg-id="danang2" tvg-logo="https://i.imgur.com/hkzIqEV.png" group-title="ĐỊA PHƯƠNG" tvg-name="ĐNRT2 | Đà Nẵng (HD 8Mbps)" x-logo-source="original" x-note="TS 8.04Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="112" x-video-pid="0x70" x-audio-pid="0x71",ĐNRT2 | Đà Nẵng (HD 8Mbps)
@@ -277,12 +277,20 @@ udp://@225.1.1.196:30120
 udp://@225.1.1.200:30120
 
 # ==================== SỰ KIỆN ====================
-#EXTINF:-1 tvg-id="event" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SỰ KIỆN" tvg-name="Event (HD 10Mbps)" x-logo-source="original" x-service-name="abr-full-hd-10" x-note="TS 12.30Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="480" x-pcr-pid="2000" x-video-pid="0x7d0" x-audio-pid="0x7d1",Event (HD 10Mbps)
-udp://@225.1.1.10:30120
-#EXTINF:-1 tvg-id="fpt_service" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SỰ KIỆN" tvg-name="FPT Giới Thiệu Chương Trình (HD 4Mbps)" x-logo-source="original" x-note="TS 4.28Mbps | h264 1920x1080 25fps | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",FPT Giới Thiệu Chương Trình (HD 4Mbps)
-udp://@225.1.4.199:30120
-#EXTINF:-1 tvg-id="fpt_service" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SỰ KIỆN" tvg-name="FPT Giới Thiệu Chương Trình (HD 4Mbps)" x-logo-source="original" x-note="TS 3.95Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",FPT Giới Thiệu Chương Trình (HD 4Mbps)
-udp://@225.1.4.200:30120
+#EXTINF:-1 tvg-id="fpt_service" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SỰ KIỆN" tvg-name="FPT Play Trực Tiếp (HD 4Mbps)" x-logo-source="original" x-note="TS 4.02Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",FPT Play Trực Tiếp (HD 4Mbps)
+udp://@225.1.1.2:30120
+#EXTINF:-1 tvg-id="fpt_service" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SỰ KIỆN" tvg-name="FPT Play Trực Tiếp (HD 10Mbps)" x-logo-source="original" x-note="TS 12.26Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="480" x-pcr-pid="2000" x-video-pid="0x7d0" x-audio-pid="0x7d1",FPT Play Trực Tiếp (HD 10Mbps)
+udp://@225.1.1.84:30120
+#EXTINF:-1 tvg-id="fpt_service" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SỰ KIỆN" tvg-name="FPT Play Trực Tiếp" x-logo-source="original" x-note="TS 12.05Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="480" x-pcr-pid="2000" x-video-pid="0x7d0" x-audio-pid="0x7d1",FPT Play Trực Tiếp
+udp://@225.1.1.58:30120
+#EXTINF:-1 tvg-id="fpt_service" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SỰ KIỆN" tvg-name="FPT Play Trực Tiếp" x-logo-source="original" x-note="TS 12.20Mbps | hevc | aac 48kHz" x-program-id="1" x-pmt-pid="480" x-pcr-pid="2000" x-video-pid="0x7d0" x-audio-pid="0x7d1",FPT Play Trực Tiếp
+udp://@225.1.2.48:30120
+#EXTINF:-1 tvg-id="fpt_service" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SỰ KIỆN" tvg-name="FPT Play Trực Tiếp" x-logo-source="original" x-note="TS 12.95Mbps | hevc | aac 48kHz" x-program-id="1" x-pmt-pid="480" x-pcr-pid="2000" x-video-pid="0x7d0" x-audio-pid="0x7d1",FPT Play Trực Tiếp
+udp://@225.1.2.84:30120
+#EXTINF:-1 tvg-id="fpt_service" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SỰ KIỆN" tvg-name="FPT Play Trực Tiếp & Độc Quyền" x-logo-source="original" x-note="TS 12.05Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="480" x-pcr-pid="2000" x-video-pid="0x7d0" x-audio-pid="0x7d1",FPT Play Trực Tiếp & Độc Quyền
+udp://@225.1.1.82:30120
+#EXTINF:-1 tvg-id="fpt_service" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SỰ KIỆN" tvg-name="FPT Play Trực Tiếp & Độc Quyền" x-logo-source="original" x-service-name="abr-full-hd-10" x-note="TS 12.16Mbps | hevc | aac 48kHz" x-program-id="1" x-pmt-pid="480" x-pcr-pid="2000" x-video-pid="0x7d0" x-audio-pid="0x7d1",FPT Play Trực Tiếp & Độc Quyền
+udp://@225.1.2.82:30120
 #EXTINF:-1 tvg-id="fpt_service" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SỰ KIỆN" tvg-name="FPT Play Quảng Cáo" x-logo-source="original" x-note="TS 8.54Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x71",FPT Play Quảng Cáo
 udp://@225.1.1.66:30120
 #EXTINF:-1 tvg-id="fpt_service" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SỰ KIỆN" tvg-name="FPT Play Quảng Cáo" x-logo-source="original" x-service-name="abr-full-hd-10" x-note="TS 12.30Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="480" x-pcr-pid="2000" x-video-pid="0x7d0" x-audio-pid="0x7d1",FPT Play Quảng Cáo
@@ -295,20 +303,16 @@ udp://@225.1.1.121:30120
 udp://@225.1.1.123:30120
 #EXTINF:-1 tvg-id="fpt_service" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SỰ KIỆN" tvg-name="FPT Play Quảng Cáo" x-logo-source="original" x-service-name="Service01" x-note="TS 5.05Mbps | h264 1280x720 25fps | aac 48kHz" x-program-id="1" x-pmt-pid="4096" x-pcr-pid="256" x-video-pid="0x100" x-audio-pid="0x101",FPT Play Quảng Cáo
 udp://@225.1.1.127:30120
-#EXTINF:-1 tvg-id="fpt_service" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SỰ KIỆN" tvg-name="FPT Play Trực Tiếp" x-logo-source="original" x-note="TS 12.20Mbps | hevc | aac 48kHz" x-program-id="1" x-pmt-pid="480" x-pcr-pid="2000" x-video-pid="0x7d0" x-audio-pid="0x7d1",FPT Play Trực Tiếp
-udp://@225.1.2.48:30120
-#EXTINF:-1 tvg-id="fpt_service" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SỰ KIỆN" tvg-name="FPT Play Trực Tiếp" x-logo-source="original" x-note="TS 12.95Mbps | hevc | aac 48kHz" x-program-id="1" x-pmt-pid="480" x-pcr-pid="2000" x-video-pid="0x7d0" x-audio-pid="0x7d1",FPT Play Trực Tiếp
-udp://@225.1.2.84:30120
-#EXTINF:-1 tvg-id="fpt_service" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SỰ KIỆN" tvg-name="FPT Play Trực Tiếp & Độc Quyền" x-logo-source="original" x-note="TS 12.05Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="480" x-pcr-pid="2000" x-video-pid="0x7d0" x-audio-pid="0x7d1",FPT Play Trực Tiếp & Độc Quyền
-udp://@225.1.1.82:30120
-#EXTINF:-1 tvg-id="fpt_service" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SỰ KIỆN" tvg-name="FPT Play Trực Tiếp (HD 10Mbps)" x-logo-source="original" x-note="TS 12.26Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="480" x-pcr-pid="2000" x-video-pid="0x7d0" x-audio-pid="0x7d1",FPT Play Trực Tiếp (HD 10Mbps)
-udp://@225.1.1.84:30120
-#EXTINF:-1 tvg-id="fpt_service" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SỰ KIỆN" tvg-name="FPT Play Trực Tiếp (HD 4Mbps)" x-logo-source="original" x-note="TS 4.02Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",FPT Play Trực Tiếp (HD 4Mbps)
-udp://@225.1.1.2:30120
+#EXTINF:-1 tvg-id="fpt_service" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SỰ KIỆN" tvg-name="FPT Giới Thiệu Chương Trình (HD 4Mbps)" x-logo-source="original" x-note="TS 4.28Mbps | h264 1920x1080 25fps | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",FPT Giới Thiệu Chương Trình (HD 4Mbps)
+udp://@225.1.4.199:30120
+#EXTINF:-1 tvg-id="fpt_service" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SỰ KIỆN" tvg-name="FPT Giới Thiệu Chương Trình (HD 4Mbps)" x-logo-source="original" x-note="TS 3.95Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",FPT Giới Thiệu Chương Trình (HD 4Mbps)
+udp://@225.1.4.200:30120
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SỰ KIỆN" tvg-name="Mosaic" x-logo-source="external" x-note="TS 4.36Mbps | h264 1920x1080 25fps | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",Mosaic
 udp://@225.1.1.21:30120
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SỰ KIỆN" tvg-name="Mosaic" x-logo-source="external" x-note="TS 4.57Mbps | h264 1920x1080 25fps | aac 48kHz" x-program-id="1" x-pmt-pid="100" x-pcr-pid="110" x-video-pid="0x6e" x-audio-pid="0x6f",Mosaic
 udp://@225.1.1.23:30120
+#EXTINF:-1 tvg-id="event" tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SỰ KIỆN" tvg-name="Event (HD 10Mbps)" x-logo-source="original" x-service-name="abr-full-hd-10" x-note="TS 12.30Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="480" x-pcr-pid="2000" x-video-pid="0x7d0" x-audio-pid="0x7d1",Event (HD 10Mbps)
+udp://@225.1.1.10:30120
 
 # ==================== CHƯA XÁC ĐỊNH ====================
 #EXTINF:-1 tvg-id="unknown_225_1_1_50" group-title="CHƯA XÁC ĐỊNH" tvg-name="Unknown 225.1.1.50" x-note="TS 12.05Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="480" x-pcr-pid="2000" x-video-pid="0x7d0" x-audio-pid="0x7d1",Unknown 225.1.1.50
@@ -317,11 +321,7 @@ udp://@225.1.1.50:30120
 udp://@225.1.1.53:30120
 #EXTINF:-1 tvg-id="unknown_225_1_1_57" group-title="CHƯA XÁC ĐỊNH" tvg-name="Unknown 225.1.1.57" x-note="TS 12.46Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="480" x-pcr-pid="2000" x-video-pid="0x7d0" x-audio-pid="0x7d1",Unknown 225.1.1.57
 udp://@225.1.1.57:30120
-#EXTINF:-1 tvg-id="unknown_225_1_1_58" group-title="CHƯA XÁC ĐỊNH" tvg-name="Unknown 225.1.1.58" x-note="TS 12.05Mbps | h264 | aac 48kHz" x-program-id="1" x-pmt-pid="480" x-pcr-pid="2000" x-video-pid="0x7d0" x-audio-pid="0x7d1",Unknown 225.1.1.58
-udp://@225.1.1.58:30120
 #EXTINF:-1 tvg-id="unknown_225_1_2_53" group-title="CHƯA XÁC ĐỊNH" tvg-name="Unknown 225.1.2.53" x-service-name="abr-full-hd-10" x-note="TS 12.72Mbps | hevc | aac 48kHz" x-program-id="1" x-pmt-pid="480" x-pcr-pid="2000" x-video-pid="0x7d0" x-audio-pid="0x7d1",Unknown 225.1.2.53
 udp://@225.1.2.53:30120
 #EXTINF:-1 tvg-id="unknown_225_1_2_57" group-title="CHƯA XÁC ĐỊNH" tvg-name="Unknown 225.1.2.57" x-note="TS 12.50Mbps | hevc | aac 48kHz" x-program-id="1" x-pmt-pid="480" x-pcr-pid="2000" x-video-pid="0x7d0" x-audio-pid="0x7d1",Unknown 225.1.2.57
 udp://@225.1.2.57:30120
-#EXTINF:-1 tvg-id="unknown_225_1_2_82" group-title="CHƯA XÁC ĐỊNH" tvg-name="Unknown 225.1.2.82" x-service-name="abr-full-hd-10" x-note="TS 12.16Mbps | hevc | aac 48kHz" x-program-id="1" x-pmt-pid="480" x-pcr-pid="2000" x-video-pid="0x7d0" x-audio-pid="0x7d1",Unknown 225.1.2.82
-udp://@225.1.2.82:30120
